@@ -1,0 +1,32 @@
+Session-End Burn Note -- public sample
+Headers you fill on the paid page. Blank on purpose.
+Not a filled example. Not a meter. Not Usage HUD. Not a course.
+
+WHAT I ASKED THIS WINDOW
+  The job in one line | what "done" meant | the request I actually typed
+
+FILES I TOUCHED
+  Count | paths on MY machine (no secrets)
+
+RETRIES
+  How many | same error pasted again? | second huge job in the same window?
+
+DID THE 5-HOUR WINDOW DIE?
+  yes / no / I don't know / not shown
+  Time it died if shown | died in under an hour?
+
+NEXT WINDOW
+  First job (one line, smaller than this ask)
+
+Write the ask, the files, the retries, and "did it die?"
+before you start the next window.
+
+Paid download after Stripe checkout: the one-page note, how-to,
+limits, one fictional filled example labeled fictional, and a
+printable PDF of the same pages.
+
+If you only use Codex and CodexBar already works, skip Usage
+HUD. This note is not a meter and not a workflow course.
+
+Support: support@thaliabloom.com. $4 USD one-time. Refund by
+email within 14 days of purchase. Seller: Bloom Web Services LLC.

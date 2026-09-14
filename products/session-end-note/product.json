@@ -1,0 +1,23 @@
+{
+  "slug": "session-end-note",
+  "name": "Session-End Burn Note",
+  "tagline": "Write what burned the window before you start the next one.",
+  "price_cents": 400,
+  "project_id": "shelf-session-end-v1",
+  "zip_filename": "Session-End-Burn-Note.zip",
+  "bytes": 10316,
+  "sha256": "a0c3f200bce31263abce467a23eccb2477a431acab4c12a167fab0fc384142ac",
+  "contains": [
+    "md",
+    "pdf",
+    "txt"
+  ],
+  "for_who": [
+    "person whose 5-hour window died and will write the ask, files, retries, and whether it died before the next window"
+  ],
+  "not_for": [
+    "buyers who want a live meter, a scraper, or Usage HUD",
+    "anyone who wants an agent course or a prompt pack",
+    "anyone who only uses Codex and already has CodexBar"
+  ]
+}

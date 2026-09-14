@@ -16,7 +16,7 @@
     "Mac user deciding whether CodexBar is enough or they need a multi-provider meter"
   ],
   "not_for": [
-    "buyers who want this zip to be Usage HUD or CodexBar",
+    "buyers who want this zip to be HUD or CodexBar",
     "anyone who wants a live meter, a scraper, or account-sharing steps"
   ]
 }

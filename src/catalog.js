@@ -1,4 +1,4 @@
-export const VERSION = '2.2.0';
+export const VERSION = '2.3.0';
 export const SELLER = 'Bloom Web Services LLC';
 export const SUPPORT = 'support@thaliabloom.com';
 
@@ -481,6 +481,25 @@ export const SKUS = {
     for_who: ['You are deciding whether CodexBar is enough.'],
     not_for: ['You want this zip to be the HUD app.'],
     limits: 'Not Usage HUD and not CodexBar. No usage is recovered.',
+  },
+  'session-end-note': {
+    slug: 'session-end-note',
+    name: 'Session-End Burn Note',
+    tagline: 'Write what burned the window before you start the next one.',
+    price_cents: 400,
+    project_id: 'shelf-session-end-v1',
+    zip_filename: 'Session-End-Burn-Note.zip',
+    zip_path: '/assets/session-end-note.zip',
+    description: 'A fill-in note for the end of a Claude session: what you asked, files touched, retries, and whether the 5-hour window died. Not a meter and not a course.',
+    contains: ['A fill-in note', 'How-to and limits', 'A printable PDF'],
+    steps: [
+      'Before you start the next window, write the last ask.',
+      'List files you touched and how many retries.',
+      'Mark whether the 5-hour window died.',
+    ],
+    for_who: ['You just burned a 5-hour window and will write four lines before the next one.'],
+    not_for: ['You want a live meter or a prompt pack.'],
+    limits: 'Not Usage HUD. Writing it down does not restore usage.',
   },
 };
 
