@@ -1,0 +1,10 @@
+{
+  "slug": "deposit-remainder-card",
+  "name": "Deposit vs Remainder Card",
+  "tagline": "Write the deposit. Write the remainder. Write when.",
+  "price_cents": 500,
+  "project_id": "shelf-deposit-remainder-v1",
+  "zip_filename": "Deposit-vs-Remainder-Card.zip",
+  "bytes": 1730,
+  "sha256": "ee8ef77694c8b8412cc225534ce3d7fbb4643836a300fbbce3c67d0d9c4163f3"
+}

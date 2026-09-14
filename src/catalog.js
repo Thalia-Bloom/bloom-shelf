@@ -1,4 +1,4 @@
-export const VERSION = '2.5.0';
+export const VERSION = '2.6.0';
 export const SELLER = 'Bloom Web Services LLC';
 export const SUPPORT = 'support@thaliabloom.com';
 
@@ -538,6 +538,25 @@ export const SKUS = {
     for_who: ['You printed tiles and have not taped yet.'],
     not_for: ['You want this zip to assemble the PDF for you.'],
     limits: 'Not a sewing pattern and not a joiner. A wrong test square wastes the stack.',
+  },
+  'deposit-remainder-card': {
+    slug: 'deposit-remainder-card',
+    name: 'Deposit vs Remainder Card',
+    tagline: 'Write the deposit. Write the remainder. Write when.',
+    price_cents: 500,
+    project_id: 'shelf-deposit-remainder-v1',
+    zip_filename: 'Deposit-vs-Remainder-Card.zip',
+    zip_path: '/assets/deposit-remainder-card.zip',
+    description: 'One page for a solo tradesperson: deposit now, remainder later, and when each is due. Payment method is blank on purpose. Not a contract.',
+    contains: ['A fill-in card', 'How-to and limits', 'A printable PDF'],
+    steps: [
+      'Copy the total from the estimate you already sent.',
+      'Write deposit and remainder so they add up.',
+      'Write when each is due in your own words.',
+    ],
+    for_who: ['You already quoted a number and need the deposit written down.'],
+    not_for: ['You need a state-specific contract or a lien form.'],
+    limits: 'Not a legal contract and not tax advice. No payment is guaranteed.',
   },
 };
 
