@@ -17,8 +17,9 @@ Support: support@thaliabloom.com · 14-day refund by email.
 | Sewing Print-Scale Test Square Pack | $3 | [/p/sewing-test-square-pack](https://bloom-shelf.pattern-service.workers.dev/p/sewing-test-square-pack) |
 | Creator Clip Shot-List + Caption Pack | $12 | [/p/creator-clip-pack](https://bloom-shelf.pattern-service.workers.dev/p/creator-clip-pack) |
 | Furniture Pickup Go/No-Go Sheet | $7 | [/p/furniture-pickup-sheet](https://bloom-shelf.pattern-service.workers.dev/p/furniture-pickup-sheet) |
-| Claude vs Codex vs Cursor Decision Worksheet | $5 | [/p/coding-tool-decision-sheet](https://bloom-shelf.pattern-service.workers.dev/p/coding-tool-decision-sheet) |
+| Claude vs Codex vs Cursor Decision Worksheet | $3 | [/p/coding-tool-decision-sheet](https://bloom-shelf.pattern-service.workers.dev/p/coding-tool-decision-sheet) |
 | Solo-Trade Estimate + Invoice Pages | $7 | [/p/trade-invoice-estimate](https://bloom-shelf.pattern-service.workers.dev/p/trade-invoice-estimate) |
+| Where Your Usage Lives | $4 | [/p/usage-source-map](https://bloom-shelf.pattern-service.workers.dev/p/usage-source-map) |
 
 Paid ZIP files are not in this repository. Checkout delivers them after Stripe payment. Public samples live under `products/<slug>/preview/`.
 

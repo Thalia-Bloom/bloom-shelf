@@ -71,9 +71,9 @@ function jsonLd(sku, env) {
 export function indexPage(env) {
   const cards = skuList().map(sku => `<a class="card" href="/p/${escape(sku.slug)}"><h2>${escape(sku.name)}</h2><p>${escape(sku.tagline)}</p><p class="price">${priceLabel(sku.price_cents)} USD · one time</p></a>`).join('');
   return shell(
-    'Bloom Shelf — small tools for the job in front of you',
-    'One-time downloads for trades and local operators. Honest limits. Stripe checkout. Email support.',
-    `<main id="main"><section class="hero"><p class="eyebrow">Bloom Web Services</p><h1>Small tools for the job in front of you.</h1><p class="one-liner">Workbooks, sheets, and checklists a stranger can pay for and download. No subscription. No login after checkout.</p><p class="description">Each page says what the file is, what it is not, who it is for, and the price. Support is ${SUPPORT}. Refunds by email within 14 days.</p></section><section class="grid">${cards}</section></main>`,
+    'Bloom Shelf — paying for two coding tools?',
+    'A $3 worksheet to write down what you already pay for Claude, Codex, or Cursor before you cancel either. Plus trade and sewing sheets. Stripe checkout. Email support.',
+    `<main id="main"><section class="hero"><p class="eyebrow">Bloom Web Services</p><h1>Paying for two coding tools?</h1><p class="one-liner">Write last week down before you cancel either plan. $3 worksheet. Not a benchmark. If you only need Codex and CodexBar already works, skip Usage HUD.</p><p class="description"><a href="/p/coding-tool-decision-sheet">Claude vs Codex vs Cursor Decision Worksheet</a> · ${SUPPORT} · 14-day refund by email. Other sheets for trades and sewing sit below.</p></section><section class="grid">${cards}</section></main>`,
     env,
   );
 }

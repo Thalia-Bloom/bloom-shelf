@@ -1,8 +1,8 @@
 {
   "slug": "coding-tool-decision-sheet",
   "name": "Claude vs Codex vs Cursor Decision Worksheet",
-  "tagline": "Write down what you already pay. Then pick.",
-  "price_cents": 500,
+  "tagline": "Paying for two? Write last week down before you cancel either.",
+  "price_cents": 300,
   "project_id": "shelf-coding-decision-v1",
   "zip_filename": "Coding-Tool-Decision-Worksheet.zip",
   "bytes": 9539,

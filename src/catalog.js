@@ -1,4 +1,4 @@
-export const VERSION = '1.4.0';
+export const VERSION = '1.6.0';
 export const SELLER = 'Bloom Web Services LLC';
 export const SUPPORT = 'support@thaliabloom.com';
 
@@ -231,12 +231,12 @@ export const SKUS = {
   'coding-tool-decision-sheet': {
     slug: 'coding-tool-decision-sheet',
     name: 'Claude vs Codex vs Cursor Decision Worksheet',
-    tagline: 'Write down what you already pay. Then pick.',
-    price_cents: 500,
+    tagline: 'Paying for two? Write last week down before you cancel either.',
+    price_cents: 300,
     project_id: 'shelf-coding-decision-v1',
     zip_filename: 'Coding-Tool-Decision-Worksheet.zip',
     zip_path: '/assets/coding-tool-decision-sheet.zip',
-    description: 'A fill-in worksheet for someone already paying for two of Claude, Codex, and Cursor. You write the plans you actually pay for, what you opened this week, and which limits you hit. It does not rank the tools. If you only need Codex and CodexBar already works, skip Usage HUD.',
+    description: 'You are already paying for Claude, Codex, or Cursor — usually two of them — and the 5-hour or weekly window keeps catching you. This worksheet is a place to write the plans you actually pay for, what you opened this week, and which limits you hit. It does not name a winner. If you only need Codex and CodexBar already works, skip Usage HUD.',
     contains: [
       'Tables for spend, last-7-days use, limits, and must-haves',
       'A keep / cancel / wait-30-days line',
@@ -288,10 +288,42 @@ export const SKUS = {
     ],
     limits: 'Not a contract, not tax advice, not a lien notice. No payment, job, or customer acceptance is guaranteed.',
   },
+  'usage-source-map': {
+    slug: 'usage-source-map',
+    name: 'Where Your Usage Lives',
+    tagline: 'See which panel or log each number comes from.',
+    price_cents: 400,
+    project_id: 'shelf-usage-source-v1',
+    zip_filename: 'Where-Your-Usage-Lives.zip',
+    zip_path: '/assets/usage-source-map.zip',
+    description: 'A short map for a Mac user whose ccusage, CodexBar, vendor panel, and HUD-style numbers disagree. It names where Claude Code, Codex, Gemini, Grok, and Ollama show usage. It is not a meter. If you only need Codex and CodexBar already works, skip Usage HUD.',
+    contains: [
+      'A map of panels and logs, with “confirm on your machine” where a path is uncertain',
+      'A two-number worksheet',
+      'A printable PDF',
+    ],
+    steps: [
+      'Pick the tool that confused you.',
+      'Read the panel or log named on the map. Confirm it on your machine.',
+      'Write the two numbers and their windows.',
+      'If they still disagree, the map tells you they are not the same pool.',
+    ],
+    for_who: [
+      'You run coding tools on a Mac and two usage numbers disagree.',
+      'You want a map, not another meter.',
+    ],
+    not_for: [
+      'You want a live menu-bar meter (that is Usage HUD, separately).',
+      'You only use Codex and CodexBar already works.',
+    ],
+    limits: 'Not a meter and not Usage HUD. Paths and panel names change. Confirm on your machine. No usage recovery is guaranteed.',
+  },
 };
 
 export function skuList() {
-  return Object.values(SKUS);
+  const featured = 'coding-tool-decision-sheet';
+  const all = Object.values(SKUS);
+  return [...all.filter(sku => sku.slug === featured), ...all.filter(sku => sku.slug !== featured)];
 }
 
 export function getSku(slug) {

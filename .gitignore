@@ -8,6 +8,7 @@ evidence/*.png
 .dev.vars
 products/*/build/
 products/*/buyer.zip
+.wip/
 public/assets/
 public/covers/
 public/preview/

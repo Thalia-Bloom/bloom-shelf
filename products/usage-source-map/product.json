@@ -1,0 +1,21 @@
+{
+  "slug": "usage-source-map",
+  "name": "Where Your Usage Lives",
+  "tagline": "See which panel or log each number comes from.",
+  "price_cents": 400,
+  "project_id": "shelf-usage-source-v1",
+  "zip_filename": "Where-Your-Usage-Lives.zip",
+  "bytes": 9243,
+  "sha256": "9e499794b3220bd195b95ee6e60361d6ecd6b185bbec25cf9730354cae348f58",
+  "contains": [
+    "md",
+    "pdf",
+    "txt"
+  ],
+  "for_who": [
+    "Mac user whose ccusage, CodexBar, and vendor panels disagree"
+  ],
+  "not_for": [
+    "anyone who wants a live usage meter"
+  ]
+}

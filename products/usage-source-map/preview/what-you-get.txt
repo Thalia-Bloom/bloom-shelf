@@ -1,0 +1,26 @@
+Where Your Usage Lives -- public sample
+Headers you fill in the paid map. Blank on purpose.
+Not a filled example. Not a meter.
+
+Two numbers that disagree
+  Number A | tool/meter | value | unit | window | place you saw it
+  Number B | tool/meter | value | unit | window | place you saw it
+
+Four mismatches to circle
+  place | unit | window | pool | freshness | I don't know
+
+Where to look (names only; paid file has the notes)
+  Claude Code  -- /usage panel; local session logs
+  Codex CLI    -- CLI readout; local session logs
+  Gemini CLI   -- quota/stats if shown; local chat logs if present
+  Grok         -- CLI usage if shown; local session logs
+  Ollama       -- app/CLI; retained server logs
+
+Paid download after Stripe checkout: the map, how-to, limits,
+one fictional filled example labeled fictional, and a printable PDF.
+
+If you only use Codex and CodexBar already works, you do not
+need Usage HUD. This map is not a meter.
+
+Support: support@thaliabloom.com. $4 USD one-time. Refund by email
+within 14 days of purchase. Seller: Bloom Web Services LLC.
