@@ -1,0 +1,42 @@
+Handyman Scope + Change Sheet — public heading sample (not the paid files)
+
+Job Scope Sheet — fill before work starts. One sheet per job.
+
+- Job / record no., customer, property, phone / email
+- Job quote / invoice ref., planned / prepared
+- 1 Customer request — requested result
+- 2 Included work — included task, finish / standard, qty / area
+- 3 Materials and exclusions
+  - Contractor supplies
+  - Customer supplies
+  - Not included
+  - Access / protection / cleanup
+- 4 Assumptions and stop points
+- 5 Price, schedule, and review record
+  - Price tied to this scope
+  - Schedule window
+  - Status: approved / declined / paused
+  - Method / reference, date / time, names / initials
+
+Change Note — record one addition, discovery, substitution, or removal.
+
+- Job / record no., customer, property, original job
+- Scope ref., change no., date / time found
+- 1 What changed — change or discovery, reason, photos / files
+- 2 Work added, removed, or replaced — scope effect
+- 3 Time, materials, price, and schedule
+  - Added time / materials
+  - Price or billing effect
+  - Schedule effect
+  - If declined or paused
+- 4 Approval record — status, method / reference, date / time
+- 5 Field note
+
+Limits:
+
+- This kit is an operating record, not legal advice or a guaranteed contract.
+- It does not guarantee customer approval, payment, fewer disputes, or job profit.
+
+Paid download after Stripe checkout: editable Word file, print-ready PDF, fictional worked example, and a two-page quick-start guide.
+
+Support: support@thaliabloom.com. $7 USD one-time. Refund by email within 14 days of purchase.

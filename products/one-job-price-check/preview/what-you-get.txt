@@ -1,0 +1,21 @@
+Handyman One-Job Price Check — public sample (not the paid workbook)
+
+After you enter one finished job in the green cells, the Price Check sheet shows:
+
+- total working hours (hands-on time plus travel, shopping, estimating, scheduling, and invoicing)
+- allocated overhead
+- cash left after direct costs and overhead
+- owner earnings per working hour
+- the gap from your own owner-pay target
+- a starting reference for a genuinely similar job
+
+Limits:
+
+- Results depend entirely on the numbers you enter.
+- The starting reference covers your chosen owner-pay target, allocated overhead, direct costs, and an uncertainty buffer. It does not add a profit margin after owner pay.
+- The sheet cannot know local demand, hidden damage, access, schedule pressure, licensing, job risk, callbacks, taxes, customer fit, or what a customer will accept.
+- No income, profit, price, or customer acceptance is guaranteed.
+
+Paid download after Stripe checkout: Excel workbook plus a Quick Start PDF, including a worked example, formulas, and reset instructions.
+
+Support: support@thaliabloom.com. $7 USD one-time. Refund by email within 14 days of purchase.

@@ -1,0 +1,13 @@
+{
+  "slug": "one-job-price-check",
+  "name": "Handyman One-Job Price Check",
+  "tagline": "One finished job. One clearer next price.",
+  "price_cents": 700,
+  "project_id": "shelf-one-job-v1",
+  "zip_filename": "Handyman-One-Job-Price-Check.zip",
+  "bytes": 405825,
+  "sha256": "2642afc3cbf7397470452db88e6f28916422951f874d31c8441804cb2c887da6",
+  "contains": ["xlsx", "pdf"],
+  "for_who": ["solo handyman with one finished job"],
+  "not_for": ["multi-crew estimating software buyers"]
+}

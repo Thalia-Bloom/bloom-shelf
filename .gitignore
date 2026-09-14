@@ -1,0 +1,13 @@
+.DS_Store
+.cache/
+.wrangler/
+node_modules/
+.venv/
+evidence/*.png
+*.enc
+.dev.vars
+products/*/build/
+products/*/buyer.zip
+public/assets/
+public/covers/
+public/preview/

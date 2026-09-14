@@ -1,0 +1,30 @@
+# Bloom Shelf
+
+One-time digital downloads from Bloom Web Services LLC. A stranger pays on Stripe and receives a ZIP. No subscription.
+
+Live worker (after deploy): `https://bloom-shelf.pattern-service.workers.dev/`
+
+Support: support@thaliabloom.com · 14-day refund by email.
+
+## SKUs
+
+| Offering | Price | Page |
+| --- | ---: | --- |
+| Handyman One-Job Price Check | $7 | [/p/one-job-price-check](https://bloom-shelf.pattern-service.workers.dev/p/one-job-price-check) |
+| Handyman Scope + Change Sheet | $7 | [/p/scope-change-sheet](https://bloom-shelf.pattern-service.workers.dev/p/scope-change-sheet) |
+| Google Business Profile DIY Visibility Kit | $19 | [/p/gbp-visibility-kit](https://bloom-shelf.pattern-service.workers.dev/p/gbp-visibility-kit) |
+
+Paid ZIP files are not in this repository. Checkout delivers them after Stripe payment. Public samples live under `products/<slug>/preview/`.
+
+## Local checks
+
+```sh
+node --test test/*.mjs
+node scripts/prepare-assets.mjs
+```
+
+Direct `/assets/*.zip` requests are rejected. Downloads require a paid Stripe session token.
+
+## Honest line
+
+These are worksheets and operating records. They are not legal advice, ranking promises, or guaranteed income.

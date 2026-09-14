@@ -1,0 +1,8 @@
+{
+  "id": "we_1UFdIlHoToN4efFxf3EroSj3",
+  "url": "https://bloom-shelf.pattern-service.workers.dev/webhook",
+  "livemode": false,
+  "enabled_events": [
+    "checkout.session.completed"
+  ]
+}

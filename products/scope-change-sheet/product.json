@@ -1,0 +1,13 @@
+{
+  "slug": "scope-change-sheet",
+  "name": "Handyman Scope + Change Sheet",
+  "tagline": "Write the job. Record the change.",
+  "price_cents": 700,
+  "project_id": "shelf-scope-change-v1",
+  "zip_filename": "Handyman-Scope-Change-Sheet.zip",
+  "bytes": 216827,
+  "sha256": "db5920be47c5f339ac8934cb9072d2b57efb05ca7c0950260f9bc1275cdf341a",
+  "contains": ["docx", "pdf"],
+  "for_who": ["solo handyman or small residential contractor"],
+  "not_for": ["state-specific legal contract buyers"]
+}

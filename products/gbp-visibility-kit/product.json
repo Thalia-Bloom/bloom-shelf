@@ -1,0 +1,13 @@
+{
+  "slug": "gbp-visibility-kit",
+  "name": "Google Business Profile DIY Visibility Kit",
+  "tagline": "Score your listing. Fix what you can see. No ranking promises.",
+  "price_cents": 1900,
+  "project_id": "shelf-gbp-diy-v1",
+  "zip_filename": "GBP-DIY-Visibility-Kit.zip",
+  "bytes": 29646,
+  "sha256": "cd9973acea5ed9e57b19a1c823092e3b10ecdf8b2593292dc22c34d11aca15e8",
+  "contains": ["csv", "md", "pdf", "txt"],
+  "for_who": ["owner-operator of a local service business who can edit their own Google Business Profile"],
+  "not_for": ["agencies wanting white-label reports", "anyone wanting guaranteed Maps rank or leads"]
+}

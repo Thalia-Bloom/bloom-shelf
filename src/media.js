@@ -1,0 +1,2 @@
+// Updated by scripts/prepare-assets.mjs before each deployment.
+export const media = {"covers":{"gbp-visibility-kit":"/covers/gbp-visibility-kit.jpg","one-job-price-check":"/covers/one-job-price-check.png","scope-change-sheet":"/covers/scope-change-sheet.png"},"previews":{"gbp-visibility-kit/rubric-sample.txt":true,"one-job-price-check/what-you-get.txt":true,"scope-change-sheet/what-you-get.txt":true}};
