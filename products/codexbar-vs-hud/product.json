@@ -1,0 +1,22 @@
+{
+  "slug": "codexbar-vs-hud",
+  "name": "CodexBar vs Multi-Provider Chooser",
+  "tagline": "Codex-only? CodexBar. Several CLIs on a Mac? HUD.",
+  "price_cents": 400,
+  "project_id": "shelf-codexbar-vs-hud-v1",
+  "zip_filename": "CodexBar-vs-Multi-Provider-Chooser.zip",
+  "bytes": 5970,
+  "sha256": "7e683a8c6b975aaae8a1b51d3015ed412a903fed2797b044ab2c7c627554ea55",
+  "contains": [
+    "pdf",
+    "md",
+    "txt"
+  ],
+  "for_who": [
+    "Mac user deciding whether CodexBar is enough or they need a multi-provider meter"
+  ],
+  "not_for": [
+    "buyers who want this zip to be Usage HUD or CodexBar",
+    "anyone who wants a live meter, a scraper, or account-sharing steps"
+  ]
+}

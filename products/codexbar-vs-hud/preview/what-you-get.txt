@@ -1,0 +1,28 @@
+CodexBar vs Multi-Provider Chooser -- public sample
+Headers you fill on the paid page. Blank on purpose.
+Not a filled example. Not a meter. Not Usage HUD. Not CodexBar.
+
+WHAT I ACTUALLY RUN ON THIS MAC
+  Codex CLI / Claude Code / Gemini CLI / Grok / Ollama / other
+  Count: 0 / 1 / 2 or more
+  Codex-only? yes / no
+
+CODEXBAR
+  Already installed? | shows Codex I need? | shows every CLI I circled?
+
+HUD
+  Want one menu-bar meter for several CLIs? | Apple silicon + macOS 14+?
+
+DECISION
+  skip HUD, use CodexBar / use HUD (several CLIs on this Mac) / wait
+
+Codex-only, and CodexBar already works: skip HUD.
+Several CLIs on a Mac, and you want one meter: HUD is the
+multi-provider meter. This zip is not that app.
+
+Paid download after Stripe checkout: the one-page chooser, how-to,
+limits, one fictional filled example labeled fictional, and a
+printable PDF of the chooser page.
+
+Support: support@thaliabloom.com. $4 USD one-time. Refund by
+email within 14 days of purchase. Seller: Bloom Web Services LLC.
