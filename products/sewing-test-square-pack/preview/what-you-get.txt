@@ -1,0 +1,16 @@
+Sewing Print-Scale Test Square Pack — public sample (not the paid zip)
+
+Four one-page PDFs so you can check print scale before you cut fabric:
+
+- letter-4-inch-test-square.pdf
+- letter-10cm-test-square.pdf
+- a4-10cm-test-square.pdf
+- a4-4-inch-test-square.pdf
+
+Print rule: 100% / actual size. Turn OFF fit-to-page and shrink-to-fit. Measure the printed box with a hard ruler, not the page. If the box is not exact, do not cut fabric.
+
+This is a print-scale check. It is not a sewing pattern, not a tiled-PDF joiner, and not a size chart. No garment fit is guaranteed.
+
+Paid download after Stripe checkout: the four PDFs, a how-to (markdown and PDF), and a limits file.
+
+Support: support@thaliabloom.com. $3 USD one-time. Refund by email within 14 days of purchase.

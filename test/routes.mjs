@@ -3,7 +3,7 @@ import { createHmac, randomBytes } from 'node:crypto';
 import test from 'node:test';
 import worker, { buildCheckoutBody, scorecard, sessionUnlocked } from '../src/worker.js';
 import { signDownloadToken, verifyDownloadToken } from '../src/security.js';
-import { SKUS } from '../src/catalog.js';
+import { SKUS, skuList } from '../src/catalog.js';
 
 const origin = 'https://bloom-shelf.example.workers.dev';
 const newSecret = () => randomBytes(32).toString('hex');
@@ -46,14 +46,9 @@ function fixture(t) {
         const request = input instanceof Request ? input : new Request(input);
         assetRequests.push(request);
         const path = new URL(request.url).pathname;
-        if (path === '/assets/one-job-price-check.zip') {
-          return new Response(request.method === 'HEAD' ? null : archiveA, { headers: { 'content-type': 'application/zip' } });
-        }
-        if (path === '/assets/gbp-visibility-kit.zip') {
-          return new Response(request.method === 'HEAD' ? null : archiveB, { headers: { 'content-type': 'application/zip' } });
-        }
-        if (path === '/assets/scope-change-sheet.zip') {
-          return new Response(request.method === 'HEAD' ? null : archiveA, { headers: { 'content-type': 'application/zip' } });
+        if (path.startsWith('/assets/') && path.endsWith('.zip')) {
+          const body = path.includes('gbp') || path.includes('creator') ? archiveB : archiveA;
+          return new Response(request.method === 'HEAD' ? null : body, { headers: { 'content-type': 'application/zip' } });
         }
         if (path.endsWith('what-you-get.txt') || path.endsWith('rubric-sample.txt')) {
           return new Response('sample preview', { headers: { 'content-type': 'text/plain' } });
@@ -109,11 +104,10 @@ test('index lists every sku and price', async (t) => {
   const response = await request(env, '/');
   assert.equal(response.status, 200);
   const html = await response.text();
-  assert.match(html, /One-Job Price Check/);
-  assert.match(html, /Scope \+ Change Sheet/);
-  assert.match(html, /Google Business Profile DIY Visibility Kit/);
-  assert.match(html, /\$7/);
-  assert.match(html, /\$19/);
+  for (const sku of skuList()) {
+    assert.match(html, new RegExp(sku.name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')));
+    assert.match(html, new RegExp(`\\$${(sku.price_cents / 100).toFixed(0)}`));
+  }
 });
 
 test('product page and unknown slug', async (t) => {
@@ -139,6 +133,8 @@ test('checkout body encodes sku price, project, and session placeholder', () => 
   const gbpBody = buildCheckoutBody(env, gbp);
   assert.equal(gbpBody.get('line_items[0][price_data][unit_amount]'), '1900');
   assert.equal(gbpBody.get('metadata[sku]'), gbp.slug);
+  const sewing = SKUS['sewing-test-square-pack'];
+  assert.equal(buildCheckoutBody(env, sewing).get('line_items[0][price_data][unit_amount]'), '300');
 });
 
 test('checkout creates a hosted session and rejects foreign origins', async (t) => {
@@ -243,5 +239,9 @@ test('health, terms, and sitemap', async (t) => {
   assert.equal(terms.status, 200);
   assert.match(await terms.text(), /14 days/);
   const sitemap = await request(env, '/sitemap.xml');
-  assert.match(await sitemap.text(), /\/p\/gbp-visibility-kit/);
+  const map = await sitemap.text();
+  for (const sku of skuList()) assert.match(map, new RegExp(`/p/${sku.slug}`));
+  assert.equal(body.skus['cleaning-quote-kit'], true);
+  assert.equal(body.skus['sewing-test-square-pack'], true);
+  assert.equal(body.skus['creator-clip-pack'], true);
 });

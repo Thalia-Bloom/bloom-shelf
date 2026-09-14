@@ -1,0 +1,29 @@
+Creator Clip Shot-List + Caption Pack -- public sample
+Worksheets for a recut you make yourself. Not an editor. Not auto-captions.
+
+Shot-list columns you fill for each beat of a source you already have:
+
+  #                    row number
+  source in            where the beat starts on the source
+  source out           where the beat ends on the source
+  keep or cut          KEEP if it belongs in the shorter cut
+  picture              what is on screen
+  spoken audio         original spoken audio, or none
+  on-screen caption    the line that sits on this picture
+  notes                title vs speech, and anything you must not forget
+
+One-transcript rule:
+
+  Each published clip gets its own transcript / caption text file.
+  Name it source-basename-clip-01.txt (then clip-02 for the next
+  upload from the same source). A 12-minute source and a 45-second
+  recut are not the same video; do not reuse one transcript for two
+  different uploads. This is a filing rule you follow. It is not a
+  promise that any platform will display or auto-sync the file.
+
+The paid zip adds the full recut checklist, blank shot-list rows,
+caption line cards, the naming page, a fictional worked example,
+and a printable PDF.
+
+$12 one-time. Bloom Web Services LLC. support@thaliabloom.com.
+No views, followers, or revenue promised.

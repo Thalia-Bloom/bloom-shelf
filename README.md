@@ -13,6 +13,9 @@ Support: support@thaliabloom.com · 14-day refund by email.
 | Handyman One-Job Price Check | $7 | [/p/one-job-price-check](https://bloom-shelf.pattern-service.workers.dev/p/one-job-price-check) |
 | Handyman Scope + Change Sheet | $7 | [/p/scope-change-sheet](https://bloom-shelf.pattern-service.workers.dev/p/scope-change-sheet) |
 | Google Business Profile DIY Visibility Kit | $19 | [/p/gbp-visibility-kit](https://bloom-shelf.pattern-service.workers.dev/p/gbp-visibility-kit) |
+| Post-Construction Cleaning Quote Kit | $9 | [/p/cleaning-quote-kit](https://bloom-shelf.pattern-service.workers.dev/p/cleaning-quote-kit) |
+| Sewing Print-Scale Test Square Pack | $3 | [/p/sewing-test-square-pack](https://bloom-shelf.pattern-service.workers.dev/p/sewing-test-square-pack) |
+| Creator Clip Shot-List + Caption Pack | $12 | [/p/creator-clip-pack](https://bloom-shelf.pattern-service.workers.dev/p/creator-clip-pack) |
 
 Paid ZIP files are not in this repository. Checkout delivers them after Stripe payment. Public samples live under `products/<slug>/preview/`.
 

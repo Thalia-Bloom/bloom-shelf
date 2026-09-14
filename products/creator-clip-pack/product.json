@@ -1,0 +1,13 @@
+{
+  "slug": "creator-clip-pack",
+  "name": "Creator Clip Shot-List + Caption Pack",
+  "tagline": "Recut what you already filmed. Write the captions on the picture.",
+  "price_cents": 1200,
+  "project_id": "shelf-creator-clip-v1",
+  "zip_filename": "Creator-Clip-Shot-List-Pack.zip",
+  "bytes": 14678,
+  "sha256": "c7ecc40d6af320382622f8732db05d6f72df3eca049b2c7b93798ad0f576c458",
+  "contains": ["md", "pdf", "txt"],
+  "for_who": ["creator with a long source file and a shorter cut in mind"],
+  "not_for": ["anyone who needs software to cut, caption, or upload the video"]
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "sewing-test-square-pack",
+  "name": "Sewing Print-Scale Test Square Pack",
+  "tagline": "Print the square. Measure it. Then cut.",
+  "price_cents": 300,
+  "project_id": "shelf-sewing-squares-v1",
+  "zip_filename": "Sewing-Print-Scale-Test-Square-Pack.zip",
+  "bytes": 7382,
+  "sha256": "5308dd2ee8705dc35da0e5b2e8069df3c52446daea75ebcc03b8df8d62c8c8c2",
+  "contains": ["pdf", "md", "txt"],
+  "for_who": ["home sewist who bought a PDF pattern and needs a test square"],
+  "not_for": ["anyone who will print fit to page"]
+}

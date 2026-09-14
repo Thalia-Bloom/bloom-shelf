@@ -1,0 +1,23 @@
+Post-Construction Cleaning Quote Kit - public sample (not the paid workbook)
+
+You type these inputs on the Quote sheet (green cells). Yellow cells add them up.
+
+  Floor area (sq ft)
+  Crew size (people)
+  Labor rate you will quote ($ per person-hour)
+  Hours you expect each person to work
+  Debris level (Light dust / Typical post-construction / Heavy leftover debris)
+  Restrooms to detail, plus extra minutes per restroom
+  Windows / glass panels, plus extra minutes per window
+  Supplies, dumpster / haul-away, travel / parking / after-hours
+  Overhead % and uncertainty buffer %
+
+The total is YOUR rate x YOUR hours, plus the extras you typed. It is
+not a market rate, not a bid service, and not a published $ / sq ft
+table. Bloom does not walk the site.
+
+Paid download after Stripe checkout: Excel workbook, site-walk
+checklist, scope-and-exclusions template, and a printable PDF.
+
+Support: support@thaliabloom.com. $9 USD one-time. Refund by email
+within 14 days of purchase. Seller: Bloom Web Services LLC.

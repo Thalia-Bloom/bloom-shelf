@@ -1,0 +1,13 @@
+{
+  "slug": "cleaning-quote-kit",
+  "name": "Post-Construction Cleaning Quote Kit",
+  "tagline": "Turn a first commercial clean into a written number.",
+  "price_cents": 900,
+  "project_id": "shelf-cleaning-quote-v1",
+  "zip_filename": "Post-Construction-Cleaning-Quote-Kit.zip",
+  "bytes": 20337,
+  "sha256": "ca153d1cfdf089a41af5968e33f8fbaa88deaa5c7cd65e33bb32e7a0e79fcb47",
+  "contains": ["xlsx", "pdf", "md", "txt"],
+  "for_who": ["owner-operator with a real lead and a site they can visit"],
+  "not_for": ["janitorial software buyers", "prevailing-wage table buyers", "anyone who will not walk the building"]
+}

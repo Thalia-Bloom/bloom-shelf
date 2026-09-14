@@ -1,0 +1,15 @@
+{
+  "host": "bloom-shelf.pattern-service.workers.dev",
+  "key": "2ccb2f2372faa996c79e07fd38870be0",
+  "keyLocation": "https://bloom-shelf.pattern-service.workers.dev/2ccb2f2372faa996c79e07fd38870be0.txt",
+  "urlList": [
+    "https://bloom-shelf.pattern-service.workers.dev/",
+    "https://bloom-shelf.pattern-service.workers.dev/p/cleaning-quote-kit",
+    "https://bloom-shelf.pattern-service.workers.dev/p/sewing-test-square-pack",
+    "https://bloom-shelf.pattern-service.workers.dev/p/creator-clip-pack",
+    "https://bloom-shelf.pattern-service.workers.dev/p/one-job-price-check",
+    "https://bloom-shelf.pattern-service.workers.dev/p/scope-change-sheet",
+    "https://bloom-shelf.pattern-service.workers.dev/p/gbp-visibility-kit",
+    "https://bloom-shelf.pattern-service.workers.dev/llms.txt"
+  ]
+}

@@ -1,4 +1,4 @@
-export const VERSION = '1.0.0';
+export const VERSION = '1.1.0';
 export const SELLER = 'Bloom Web Services LLC';
 export const SUPPORT = 'support@thaliabloom.com';
 
@@ -104,6 +104,99 @@ export const SKUS = {
       'You want a white-label agency report.',
     ],
     limits: 'This kit does not access your Google account, post on your behalf, or change your listing. Rankings, reviews, and leads depend on facts Google and customers already see, plus competitors you do not control. Fill templates only with true information about your business.',
+  },
+  'cleaning-quote-kit': {
+    slug: 'cleaning-quote-kit',
+    name: 'Post-Construction Cleaning Quote Kit',
+    tagline: 'Turn a first commercial clean into a written number.',
+    price_cents: 900,
+    project_id: 'shelf-cleaning-quote-v1',
+    zip_filename: 'Post-Construction-Cleaning-Quote-Kit.zip',
+    zip_path: '/assets/cleaning-quote-kit.zip',
+    description: 'A workbook for a residential cleaner with a first commercial post-construction lead. You type the square footage, crew, the labor rate you will actually quote, debris, restrooms, windows, and extras. The sheet shows the total, dollars per square foot, and dollars per labor hour after overhead. It does not pick the rate for you and it does not walk the building.',
+    contains: [
+      'An Excel/Sheets-friendly quote workbook with a worked fictional example',
+      'A site-walk checklist and a scope/exclusions template',
+      'A limits page and a printable PDF of the written parts',
+    ],
+    steps: [
+      'Walk the site with the checklist. Write what is included and who supplies dumpsters, water, power, and insurance.',
+      'Enter your rate, hours, and extras in the green cells.',
+      'Read the total and the two check figures. If they look too low to stay in business, change the rate or the hours on purpose.',
+      'Send the number with the walk sheet. Do not send only a total.',
+    ],
+    for_who: [
+      'You run a residential cleaning business and have a real commercial post-construction lead.',
+      'You can visit the building before you quote.',
+      'You want a written number from your own rate, not a published market list.',
+    ],
+    not_for: [
+      'You need a prevailing-wage table or janitorial estimating software.',
+      'You will not walk the site.',
+      'You need legal, insurance, or licensing advice.',
+    ],
+    limits: 'This is a calculator, not a bid service and not a market price list. It cannot see hidden construction dust, union rules, after-hours premiums, or what a general contractor will pay. No job, income, or customer acceptance is guaranteed.',
+  },
+  'sewing-test-square-pack': {
+    slug: 'sewing-test-square-pack',
+    name: 'Sewing Print-Scale Test Square Pack',
+    tagline: 'Print the square. Measure it. Then cut.',
+    price_cents: 300,
+    project_id: 'shelf-sewing-squares-v1',
+    zip_filename: 'Sewing-Print-Scale-Test-Square-Pack.zip',
+    zip_path: '/assets/sewing-test-square-pack.zip',
+    description: 'Four printable test squares: 4 inch and 10 cm, on US Letter and A4. Print at 100 percent, turn off fit-to-page, and measure the box with a hard ruler before you cut fabric. This is a standalone scale check when a PDF pattern’s square is missing or hard to find.',
+    contains: [
+      'Letter 4-inch and 10 cm squares',
+      'A4 4-inch and 10 cm squares',
+      'A how-to for printer settings and measuring',
+    ],
+    steps: [
+      'Pick the paper size that is actually in the printer.',
+      'Print at 100 percent / actual size. Turn off fit-to-page and shrink-to-fit.',
+      'Measure the printed box, not the page.',
+      'If the box is not exact, reprint before you cut.',
+    ],
+    for_who: [
+      'You bought a PDF sewing pattern and need a test square.',
+      'You have a ruler and a printer you can set to 100 percent.',
+    ],
+    not_for: [
+      'You will print with “fit to page” turned on.',
+      'You need a sewing pattern, a tiled-page joiner, or a grading tool.',
+    ],
+    limits: 'These files are not a sewing pattern and not a substitute for a pattern company’s own test square if they provided one. They do not guarantee garment fit. If the printed box is the wrong size, the rest of the pattern will be too.',
+  },
+  'creator-clip-pack': {
+    slug: 'creator-clip-pack',
+    name: 'Creator Clip Shot-List + Caption Pack',
+    tagline: 'Recut what you already filmed. Write the captions on the picture.',
+    price_cents: 1200,
+    project_id: 'shelf-creator-clip-v1',
+    zip_filename: 'Creator-Clip-Shot-List-Pack.zip',
+    zip_path: '/assets/creator-clip-pack.zip',
+    description: 'Worksheets for a shorter cut of a video you already have: a recut checklist, a shot list with in/out times, on-screen caption lines, and a one-transcript-per-upload rule. You still cut and export in your own editor. This pack does not render captions or publish anything.',
+    contains: [
+      'A recut checklist and a fill-in shot list',
+      'A caption template and a one-transcript-per-upload note',
+      'A fictional worked example and a printable PDF',
+    ],
+    steps: [
+      'Note the source runtime and pick a target length.',
+      'Mark keep and cut on the shot list with in/out times.',
+      'Write one caption line that matches the picture for each keep.',
+      'Export one transcript/caption file per published clip.',
+    ],
+    for_who: [
+      'You already have a long video.',
+      'You want a shorter cut with captions that sit on the picture.',
+      'You have an editor you already use.',
+    ],
+    not_for: [
+      'You need software to cut or caption for you.',
+      'You want a follower, view, or revenue guarantee.',
+    ],
+    limits: 'This is paper, not an editor and not auto-captions. It does not upload, schedule, or remember brand decisions. No views, followers, or income are guaranteed.',
   },
 };
 
