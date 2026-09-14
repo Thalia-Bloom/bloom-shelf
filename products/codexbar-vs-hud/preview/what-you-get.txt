@@ -1,6 +1,6 @@
 CodexBar vs Multi-Provider Chooser -- public sample
 Headers you fill on the paid page. Blank on purpose.
-Not a filled example. Not a meter. Not Usage HUD. Not CodexBar.
+Not a filled example. Not a meter. Not HUD. Not CodexBar.
 
 WHAT I ACTUALLY RUN ON THIS MAC
   Codex CLI / Claude Code / Gemini CLI / Grok / Ollama / other
@@ -17,8 +17,10 @@ DECISION
   skip HUD, use CodexBar / use HUD (several CLIs on this Mac) / wait
 
 Codex-only, and CodexBar already works: skip HUD.
-Several CLIs on a Mac, and you want one meter: HUD is the
-multi-provider meter. This zip is not that app.
+CodexBar already shows every CLI you run: skip HUD.
+Several CLIs on a Mac, CodexBar does not show them all, and
+you want one meter: HUD is Bloom's paid Mac meter for that.
+This zip is not that app.
 
 Paid download after Stripe checkout: the one-page chooser, how-to,
 limits, one fictional filled example labeled fictional, and a

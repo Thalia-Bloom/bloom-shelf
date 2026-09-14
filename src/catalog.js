@@ -1,4 +1,4 @@
-export const VERSION = '2.3.0';
+export const VERSION = '2.4.0';
 export const SELLER = 'Bloom Web Services LLC';
 export const SUPPORT = 'support@thaliabloom.com';
 
@@ -466,12 +466,12 @@ export const SKUS = {
   'codexbar-vs-hud': {
     slug: 'codexbar-vs-hud',
     name: 'CodexBar vs Multi-Provider Chooser',
-    tagline: 'Codex-only? CodexBar. Several CLIs on a Mac? HUD.',
-    price_cents: 400,
+    tagline: 'If CodexBar already shows Codex, skip HUD.',
+    price_cents: 300,
     project_id: 'shelf-codexbar-vs-hud-v1',
     zip_filename: 'CodexBar-vs-Multi-Provider-Chooser.zip',
     zip_path: '/assets/codexbar-vs-hud.zip',
-    description: 'If you only use Codex and CodexBar already works, you do not need Usage HUD. If you run Claude, Codex, Gemini, Grok, or Ollama together on a Mac, HUD is the multi-provider meter. This page does not install either app.',
+    description: 'People land on HUD vs CodexBar because they already have one meter. If CodexBar already shows your Codex usage, you do not need HUD. If you also run Claude, Gemini, Grok, or Ollama on the same Mac, HUD is the other product (sold separately). This zip is a one-page chooser. It does not install either app.',
     contains: ['A one-page chooser', 'How-to and limits', 'A printable PDF'],
     steps: [
       'Write which CLIs you actually opened this week.',
@@ -501,12 +501,32 @@ export const SKUS = {
     not_for: ['You want a live meter or a prompt pack.'],
     limits: 'Not Usage HUD. Writing it down does not restore usage.',
   },
+  'copyshop-dropoff-slip': {
+    slug: 'copyshop-dropoff-slip',
+    name: 'Copy-Shop Drop-Off Slip',
+    tagline: 'Hand the clerk 100% scale, paper, and do not cut.',
+    price_cents: 400,
+    project_id: 'shelf-copyshop-slip-v1',
+    zip_filename: 'Copy-Shop-Drop-Off-Slip.zip',
+    zip_path: '/assets/copyshop-dropoff-slip.zip',
+    description: 'One page to hand a copy-shop clerk: print at 100 percent, paper size, layers, do not cut the pattern. Not a joiner and not the home-vs-shop chooser.',
+    contains: ['A drop-off slip', 'How-to and limits', 'A printable PDF'],
+    steps: [
+      'Fill scale, paper, and layers before you leave the house.',
+      'Hand the slip with the file.',
+      'Do not cut fabric until you measure a test square.',
+    ],
+    for_who: ['You already decided to take a tiled PDF to a copy shop.'],
+    not_for: ['You still need to decide home vs shop (that is the chooser).'],
+    limits: 'Not a print order Bloom will place. Scale errors waste paper.',
+  },
 };
 
 export function skuList() {
-  const featured = 'coding-tool-decision-sheet';
+  const featured = ['codexbar-vs-hud', 'two-pool-usage-card', 'coding-tool-decision-sheet'];
   const all = Object.values(SKUS);
-  return [...all.filter(sku => sku.slug === featured), ...all.filter(sku => sku.slug !== featured)];
+  const rest = all.filter(sku => !featured.includes(sku.slug));
+  return [...featured.map(slug => SKUS[slug]).filter(Boolean), ...rest];
 }
 
 export function getSku(slug) {

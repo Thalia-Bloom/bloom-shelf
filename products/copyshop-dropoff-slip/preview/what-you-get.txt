@@ -1,0 +1,39 @@
+Copy-Shop Drop-Off Slip -- public sample
+Headers you fill on the paid page. Blank on purpose.
+Not a filled example. Not a tiled-PDF joiner. Not a test square.
+Not the print-at-home vs copy-shop chooser.
+
+HAND THIS PAGE TO THE CLERK
+
+Pickup name | phone | pattern / job name
+File name I am handing you (USB / email / print)
+
+PRINT AT 100% / ACTUAL SIZE
+  Scale: 100% / actual size / other
+  Turn OFF fit-to-page. I already measured a test square at home? yes / no / not yet
+
+PAPER
+  A0 / A1 / 36-inch roll / 24-inch roll / Letter / A4 / other
+  Color: black and white / color | copies | single-sided | collate
+  Do not join tiles unless I handed you a large-format file.
+
+FILE I AM HANDING YOU
+  large-format already / tiled A4 / tiled Letter / I don't know
+
+LAYERS
+  Print only this size | hide these sizes
+  If you cannot see layers: print all sizes / stop and call me
+
+DO NOT CUT / DO NOT TRIM
+  Trim? no / yes, only: _____
+  Leave the test square on the sheet. Do not fold.
+
+DO NOT CUT FABRIC. This slip is a print order. Cutting is later,
+after the test square on that print measures right.
+
+Paid download after Stripe checkout: the one-page slip, how-to,
+limits, one fictional filled example labeled fictional, and a
+printable PDF of the slip page.
+
+Support: support@thaliabloom.com. $4 USD one-time. Refund by email
+within 14 days of purchase. Seller: Bloom Web Services LLC.

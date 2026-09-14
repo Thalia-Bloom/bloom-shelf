@@ -1,8 +1,8 @@
 {
   "slug": "codexbar-vs-hud",
   "name": "CodexBar vs Multi-Provider Chooser",
-  "tagline": "Codex-only? CodexBar. Several CLIs on a Mac? HUD.",
-  "price_cents": 400,
+  "tagline": "If CodexBar already shows Codex, skip HUD.",
+  "price_cents": 300,
   "project_id": "shelf-codexbar-vs-hud-v1",
   "zip_filename": "CodexBar-vs-Multi-Provider-Chooser.zip",
   "bytes": 5970,

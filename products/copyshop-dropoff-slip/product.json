@@ -1,0 +1,19 @@
+{
+  "slug": "copyshop-dropoff-slip",
+  "name": "Copy-Shop Drop-Off Slip",
+  "tagline": "Hand the clerk 100% scale, paper, and do not cut.",
+  "price_cents": 400,
+  "project_id": "shelf-copyshop-slip-v1",
+  "zip_filename": "Copy-Shop-Drop-Off-Slip.zip",
+  "bytes": 6944,
+  "sha256": "dcb934867577e3779956bcacd063b4c15a8553c698c8b1e7c6db5b8bacb318df",
+  "contains": ["pdf", "md", "txt"],
+  "for_who": [
+    "home sewist who already decided to take a file to a copy shop and needs one page for the clerk"
+  ],
+  "not_for": [
+    "anyone still deciding whether to print at home",
+    "anyone who wants a tiled-PDF joiner",
+    "anyone who wants Bloom to print the pattern"
+  ]
+}

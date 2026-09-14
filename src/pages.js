@@ -71,9 +71,9 @@ function jsonLd(sku, env) {
 export function indexPage(env) {
   const cards = skuList().map(sku => `<a class="card" href="/p/${escape(sku.slug)}"><h2>${escape(sku.name)}</h2><p>${escape(sku.tagline)}</p><p class="price">${priceLabel(sku.price_cents)} USD · one time</p></a>`).join('');
   return shell(
-    'Bloom Shelf — paying for two coding tools?',
-    'A $3 worksheet to write down what you already pay for Claude, Codex, or Cursor before you cancel either. Plus trade and sewing sheets. Stripe checkout. Email support.',
-    `<main id="main"><section class="hero"><p class="eyebrow">Bloom Web Services</p><h1>Paying for two coding tools?</h1><p class="one-liner">Write last week down before you cancel either plan. $3 worksheet. Not a benchmark. If you only need Codex and CodexBar already works, skip Usage HUD.</p><p class="description"><a href="/p/coding-tool-decision-sheet">Claude vs Codex vs Cursor Decision Worksheet</a> · ${SUPPORT} · 14-day refund by email. Other sheets for trades and sewing sit below.</p></section><section class="grid">${cards}</section></main>`,
+    'Bloom Shelf — CodexBar already showing Codex?',
+    'A $3 chooser: if CodexBar already shows Codex, skip HUD. If you run several CLIs on a Mac, HUD is sold separately. Stripe checkout. Email support.',
+    `<main id="main"><section class="hero"><p class="eyebrow">Bloom Web Services</p><h1>CodexBar already showing Codex?</h1><p class="one-liner">Skip HUD. This $3 page is a chooser, not the app. If you also run Claude, Gemini, Grok, or Ollama on the same Mac, HUD is the other product.</p><p class="description"><a href="/p/codexbar-vs-hud">CodexBar vs Multi-Provider Chooser</a> · <a href="/p/two-pool-usage-card">5-hour vs weekly card</a> · ${SUPPORT} · 14-day refund.</p></section><section class="grid">${cards}</section></main>`,
     env,
   );
 }
