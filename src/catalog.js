@@ -1,4 +1,4 @@
-export const VERSION = '1.1.0';
+export const VERSION = '1.3.0';
 export const SELLER = 'Bloom Web Services LLC';
 export const SUPPORT = 'support@thaliabloom.com';
 
@@ -197,6 +197,66 @@ export const SKUS = {
       'You want a follower, view, or revenue guarantee.',
     ],
     limits: 'This is paper, not an editor and not auto-captions. It does not upload, schedule, or remember brand decisions. No views, followers, or income are guaranteed.',
+  },
+  'furniture-pickup-sheet': {
+    slug: 'furniture-pickup-sheet',
+    name: 'Furniture Pickup Go/No-Go Sheet',
+    tagline: 'One pickup. One keep-or-walk decision.',
+    price_cents: 700,
+    project_id: 'shelf-furniture-pickup-v1',
+    zip_filename: 'Furniture-Pickup-Go-No-Go-Sheet.zip',
+    zip_path: '/assets/furniture-pickup-sheet.zip',
+    description: 'You found one dresser or chair on a curb or a Marketplace listing. Type asking price, repairs you can see, hours, fuel, fees, and your resale guess. The sheet shows money left, implied hourly, and GO / CAUTION / NO-GO. It does not know what it will sell for.',
+    contains: [
+      'An Excel pickup sheet with a Limits tab',
+      'A photo and measure checklist',
+      'A printable PDF of the written parts',
+    ],
+    steps: [
+      'Measure the piece against the vehicle and the doorway before you drive.',
+      'Fill the green cells. Expected resale is your guess.',
+      'If pests or smoke is yes, the sheet says NO-GO. That is a safety call, not a bargain.',
+      'Walk if the photos look worse in person.',
+    ],
+    for_who: [
+      'You flip one piece at a time from a curb or Marketplace.',
+      'You want a keep-or-walk call before you spend the afternoon.',
+    ],
+    not_for: [
+      'You want software to price every piece in a warehouse.',
+      'You want someone else to inspect, haul, or list it.',
+    ],
+    limits: 'This is not an appraisal, not comps, and not a listing bot. Expected resale is the number you typed. No sale, profit, or pickup is guaranteed.',
+  },
+  'coding-tool-decision-sheet': {
+    slug: 'coding-tool-decision-sheet',
+    name: 'Claude vs Codex vs Cursor Decision Worksheet',
+    tagline: 'Write down what you already pay. Then pick.',
+    price_cents: 500,
+    project_id: 'shelf-coding-decision-v1',
+    zip_filename: 'Coding-Tool-Decision-Worksheet.zip',
+    zip_path: '/assets/coding-tool-decision-sheet.zip',
+    description: 'A fill-in worksheet for someone already paying for two of Claude, Codex, and Cursor. You write the plans you actually pay for, what you opened this week, and which limits you hit. It does not rank the tools. If you only need Codex and CodexBar already works, skip Usage HUD.',
+    contains: [
+      'Tables for spend, last-7-days use, limits, and must-haves',
+      'A keep / cancel / wait-30-days line',
+      'A fictional filled example and a printable PDF',
+    ],
+    steps: [
+      'Copy last month’s charges into the pay table. Use real dollars.',
+      'Guess the last 7 days of what you actually opened.',
+      'Mark limits you hit. “I don’t know” is allowed.',
+      'Fill the decision line before you cancel anything.',
+    ],
+    for_who: [
+      'You already pay for at least two of Claude, Codex, and Cursor.',
+      'You want a keep/cancel note in your own handwriting.',
+    ],
+    not_for: [
+      'You want a benchmark or a ranked winner.',
+      'You want a usage meter or someone else to cancel a plan.',
+    ],
+    limits: 'Not a benchmark, not a review, not a usage meter. Tool prices and limits change. No savings are guaranteed. This worksheet does not replace CodexBar or Usage HUD.',
   },
 };
 

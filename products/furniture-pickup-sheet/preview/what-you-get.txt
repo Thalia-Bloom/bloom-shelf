@@ -1,0 +1,26 @@
+Furniture Pickup Go/No-Go Sheet - public sample (not the paid workbook)
+
+You type these inputs on the Pickup sheet (green cells). Yellow cells
+add them up.
+
+  Asking price
+  Cash on hand for this pickup
+  Estimated repair / parts
+  Estimated hours (drive, load, repair, photos, listing, meetup)
+  Your target hourly
+  Round-trip miles and fuel per mile
+  Platform fees % (0% if you sell for local cash)
+  Expected resale - labeled YOUR GUESS, not a market value
+  Red flags: smoke, bedbugs/pests, structural damage, missing
+  hardware, too big for today's vehicle
+  GO and CAUTION hourly floors (you can edit them)
+
+The sheet then shows money left after costs, implied hourly, and
+GO / CAUTION / NO-GO. It does not know local demand or what the
+piece will actually sell for. A GO is not a sale.
+
+Paid download after Stripe checkout: Excel workbook, photo and
+measure checklist, and a printable PDF.
+
+Support: support@thaliabloom.com. $7 USD one-time. Refund by email
+within 14 days of purchase. Seller: Bloom Web Services LLC.

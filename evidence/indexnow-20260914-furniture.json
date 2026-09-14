@@ -1,0 +1,10 @@
+{
+  "host": "bloom-shelf.pattern-service.workers.dev",
+  "key": "2ccb2f2372faa996c79e07fd38870be0",
+  "keyLocation": "https://bloom-shelf.pattern-service.workers.dev/2ccb2f2372faa996c79e07fd38870be0.txt",
+  "urlList": [
+    "https://bloom-shelf.pattern-service.workers.dev/",
+    "https://bloom-shelf.pattern-service.workers.dev/p/furniture-pickup-sheet",
+    "https://bloom-shelf.pattern-service.workers.dev/llms.txt"
+  ]
+}

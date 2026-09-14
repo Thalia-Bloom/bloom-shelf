@@ -1,0 +1,18 @@
+{
+  "slug": "coding-tool-decision-sheet",
+  "name": "Claude vs Codex vs Cursor Decision Worksheet",
+  "tagline": "Write down what you already pay. Then pick.",
+  "price_cents": 500,
+  "project_id": "shelf-coding-decision-v1",
+  "zip_filename": "Coding-Tool-Decision-Worksheet.zip",
+  "bytes": 9539,
+  "sha256": "c1a9a105783c839ba2519e9298fb1371daaf46560a94801523c72c590e6df7be",
+  "contains": ["md", "pdf", "txt"],
+  "for_who": [
+    "someone already paying for two of Claude, Codex, and Cursor who will write their own keep/cancel notes"
+  ],
+  "not_for": [
+    "buyers who want a benchmark, a ranked winner, or a usage meter",
+    "anyone who wants Bloom to cancel a vendor plan"
+  ]
+}

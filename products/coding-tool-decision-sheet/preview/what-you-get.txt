@@ -1,0 +1,29 @@
+Claude vs Codex vs Cursor Decision Worksheet -- public sample
+Table headers you fill in the paid sheet. Blank on purpose.
+Not a filled example. Not a benchmark.
+
+What you already pay
+  Tool | Plan name | Monthly USD you actually pay | Mac?
+
+What you opened in the last 7 days
+  Tool | Hours-ish (your guess) | What you opened it for
+
+Limits you actually hit
+  Tool | 5-hour | weekly | request cap | I don't know
+
+Must-haves
+  Need | Your answer
+  Repo size (your guess: files or lines)
+  Models you actually use (names you type)
+  Offline required? yes/no
+  Team (seats, or solo)
+  Other must-have
+
+Decision line
+  Tool | keep / cancel / wait 30 days | Why (from your notes)
+
+Paid download after Stripe checkout: blank tables, how-to, limits,
+one fictional filled example labeled fictional, and a printable PDF.
+
+Support: support@thaliabloom.com. $5 USD one-time. Refund by email
+within 14 days of purchase. Seller: Bloom Web Services LLC.

@@ -1,0 +1,23 @@
+{
+  "slug": "furniture-pickup-sheet",
+  "name": "Furniture Pickup Go/No-Go Sheet",
+  "tagline": "One pickup. One keep-or-walk decision.",
+  "price_cents": 700,
+  "project_id": "shelf-furniture-pickup-v1",
+  "zip_filename": "Furniture-Pickup-Go-No-Go-Sheet.zip",
+  "bytes": 18803,
+  "sha256": "ba35e6d3d8a6230dd159691ebbd009cabc35d1297d1b5dc8dc72b51abf53bb8b",
+  "contains": [
+    "xlsx",
+    "pdf",
+    "md",
+    "txt"
+  ],
+  "for_who": [
+    "furniture flipper screening one curb or Marketplace pickup"
+  ],
+  "not_for": [
+    "buyers who want software to price every piece",
+    "anyone who wants Bloom to inspect, haul, or sell the furniture"
+  ]
+}
