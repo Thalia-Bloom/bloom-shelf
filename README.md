@@ -24,6 +24,7 @@ Support: support@thaliabloom.com · 14-day refund by email.
 | One-Job Materials-Run Checklist | $5 | [/p/materials-run-checklist](https://bloom-shelf.pattern-service.workers.dev/p/materials-run-checklist) |
 | Creator Brand-Voice Card | $9 | [/p/creator-voice-card](https://bloom-shelf.pattern-service.workers.dev/p/creator-voice-card) |
 | Marketplace One-Item Photo Shot List | $7 | [/p/marketplace-photo-list](https://bloom-shelf.pattern-service.workers.dev/p/marketplace-photo-list) |
+| Punch-List vs Deep-Clean Scope Card | $5 | [/p/punch-vs-deep-clean](https://bloom-shelf.pattern-service.workers.dev/p/punch-vs-deep-clean) |
 
 Paid ZIP files are not in this repository. Checkout delivers them after Stripe payment. Public samples live under `products/<slug>/preview/`.
 

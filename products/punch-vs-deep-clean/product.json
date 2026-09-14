@@ -1,0 +1,21 @@
+{
+  "slug": "punch-vs-deep-clean",
+  "name": "Punch-List vs Deep-Clean Scope Card",
+  "tagline": "Write what \u201cpunch list\u201d includes before you quote hours.",
+  "price_cents": 500,
+  "project_id": "shelf-punch-deep-v1",
+  "zip_filename": "Punch-List-vs-Deep-Clean-Scope-Card.zip",
+  "bytes": 10935,
+  "sha256": "91d71fb87b15fa05d13678cbc84ee27c0d886b02c1fae158139de606513a6104",
+  "contains": [
+    "md",
+    "pdf",
+    "txt"
+  ],
+  "for_who": [
+    "cleaner whose client said punch list"
+  ],
+  "not_for": [
+    "anyone who wants a price workbook"
+  ]
+}

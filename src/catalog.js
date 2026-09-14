@@ -1,4 +1,4 @@
-export const VERSION = '1.8.0';
+export const VERSION = '1.9.0';
 export const SELLER = 'Bloom Web Services LLC';
 export const SUPPORT = 'support@thaliabloom.com';
 
@@ -405,6 +405,25 @@ export const SKUS = {
     for_who: ['You are listing one object, not running a warehouse.'],
     not_for: ['You want software to post or price the piece.'],
     limits: 'Not a listing bot, not an appraisal. No sale is guaranteed.',
+  },
+  'punch-vs-deep-clean': {
+    slug: 'punch-vs-deep-clean',
+    name: 'Punch-List vs Deep-Clean Scope Card',
+    tagline: 'Write what “punch list” includes before you quote hours.',
+    price_cents: 500,
+    project_id: 'shelf-punch-deep-v1',
+    zip_filename: 'Punch-List-vs-Deep-Clean-Scope-Card.zip',
+    zip_path: '/assets/punch-vs-deep-clean.zip',
+    description: 'A client said punch list. That is not the same job as a construction dust-out or an occupied deep-clean. This card is included/excluded rooms, dust, glass, and floors — not a price workbook.',
+    contains: ['A scope card', 'How-to and limits', 'A printable PDF'],
+    steps: [
+      'Walk the rooms with the card before you quote hours.',
+      'Write what is included and excluded.',
+      'If they want more, that is a different job, not a free add.',
+    ],
+    for_who: ['You clean and a client used the words punch list.'],
+    not_for: ['You want a dollar quote workbook (that is the cleaning quote kit).'],
+    limits: 'Not a bid and not a market price. No job is guaranteed.',
   },
 };
 
