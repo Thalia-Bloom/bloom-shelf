@@ -1,0 +1,27 @@
+{
+  "host": "bloom-shelf.pattern-service.workers.dev",
+  "key": "2ccb2f2372faa996c79e07fd38870be0",
+  "keyLocation": "https://bloom-shelf.pattern-service.workers.dev/2ccb2f2372faa996c79e07fd38870be0.txt",
+  "urlList": [
+    "https://bloom-shelf.pattern-service.workers.dev/",
+    "https://bloom-shelf.pattern-service.workers.dev/llms.txt",
+    "https://bloom-shelf.pattern-service.workers.dev/sitemap.xml",
+    "https://bloom-shelf.pattern-service.workers.dev/p/one-job-price-check",
+    "https://bloom-shelf.pattern-service.workers.dev/p/gbp-visibility-kit",
+    "https://bloom-shelf.pattern-service.workers.dev/p/scope-change-sheet",
+    "https://bloom-shelf.pattern-service.workers.dev/p/cleaning-quote-kit",
+    "https://bloom-shelf.pattern-service.workers.dev/p/sewing-test-square-pack",
+    "https://bloom-shelf.pattern-service.workers.dev/p/creator-clip-pack",
+    "https://bloom-shelf.pattern-service.workers.dev/p/furniture-pickup-sheet",
+    "https://bloom-shelf.pattern-service.workers.dev/p/coding-tool-decision-sheet",
+    "https://bloom-shelf.pattern-service.workers.dev/p/trade-invoice-estimate",
+    "https://bloom-shelf.pattern-service.workers.dev/p/usage-source-map",
+    "https://bloom-shelf.pattern-service.workers.dev/p/print-vs-copyshop",
+    "https://bloom-shelf.pattern-service.workers.dev/p/materials-run-checklist",
+    "https://bloom-shelf.pattern-service.workers.dev/p/creator-voice-card",
+    "https://bloom-shelf.pattern-service.workers.dev/p/marketplace-photo-list",
+    "https://bloom-shelf.pattern-service.workers.dev/p/punch-vs-deep-clean",
+    "https://bloom-shelf.pattern-service.workers.dev/p/first-job-access-script",
+    "https://bloom-shelf.pattern-service.workers.dev/p/two-pool-usage-card"
+  ]
+}

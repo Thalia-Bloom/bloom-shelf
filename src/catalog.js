@@ -1,4 +1,4 @@
-export const VERSION = '2.1.0';
+export const VERSION = '2.2.0';
 export const SELLER = 'Bloom Web Services LLC';
 export const SUPPORT = 'support@thaliabloom.com';
 
@@ -462,6 +462,25 @@ export const SKUS = {
     for_who: ['You are on Claude Max or Pro and the weekly number jumped.'],
     not_for: ['You want a live menu-bar meter (that is Usage HUD).'],
     limits: 'Not a meter. Vendor panels change. No usage is recovered. Codex-only users who already have CodexBar do not need HUD.',
+  },
+  'codexbar-vs-hud': {
+    slug: 'codexbar-vs-hud',
+    name: 'CodexBar vs Multi-Provider Chooser',
+    tagline: 'Codex-only? CodexBar. Several CLIs on a Mac? HUD.',
+    price_cents: 400,
+    project_id: 'shelf-codexbar-vs-hud-v1',
+    zip_filename: 'CodexBar-vs-Multi-Provider-Chooser.zip',
+    zip_path: '/assets/codexbar-vs-hud.zip',
+    description: 'If you only use Codex and CodexBar already works, you do not need Usage HUD. If you run Claude, Codex, Gemini, Grok, or Ollama together on a Mac, HUD is the multi-provider meter. This page does not install either app.',
+    contains: ['A one-page chooser', 'How-to and limits', 'A printable PDF'],
+    steps: [
+      'Write which CLIs you actually opened this week.',
+      'If the list is Codex only and CodexBar works, stop.',
+      'If the list is more than one provider, HUD is the other product (sold separately).',
+    ],
+    for_who: ['You are deciding whether CodexBar is enough.'],
+    not_for: ['You want this zip to be the HUD app.'],
+    limits: 'Not Usage HUD and not CodexBar. No usage is recovered.',
   },
 };
 

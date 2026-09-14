@@ -27,6 +27,7 @@ Support: support@thaliabloom.com · 14-day refund by email.
 | Punch-List vs Deep-Clean Scope Card | $5 | [/p/punch-vs-deep-clean](https://bloom-shelf.pattern-service.workers.dev/p/punch-vs-deep-clean) |
 | First Commercial Job Access Script | $5 | [/p/first-job-access-script](https://bloom-shelf.pattern-service.workers.dev/p/first-job-access-script) |
 | 5-Hour vs Weekly Two-Pool Card | $4 | [/p/two-pool-usage-card](https://bloom-shelf.pattern-service.workers.dev/p/two-pool-usage-card) |
+| CodexBar vs Multi-Provider Chooser | $4 | [/p/codexbar-vs-hud](https://bloom-shelf.pattern-service.workers.dev/p/codexbar-vs-hud) |
 
 Paid ZIP files are not in this repository. Checkout delivers them after Stripe payment. Public samples live under `products/<slug>/preview/`.
 
