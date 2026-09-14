@@ -10,58 +10,56 @@ Refund: **14 days by email** (say you bought this checklist).
 
 ## What it is
 
-You have one job on the calendar. You will stop at a store. You
-need a written list of what to buy, what the customer is bringing,
-what can go back, and what leftover stays on the truck.
+You already have an estimate. You still drive to the store
+from memory, mix customer-supplied parts with what you buy,
+and leave leftovers in the truck until they look like the
+next job.
 
-This is the supply stop. It is not a price for the job.
+This download is a supply-stop checklist for ONE job:
 
-This download is:
-
-- A one-job fill-in checklist (store, returns, leftovers,
-  customer-supplied)
-- How-to: fill it before you drive, close it after the return
-- Limits you should read before you treat leftovers as profit
-- One fictional filled example (Cedar Court towel-bar, labeled
+- List copied off that job's estimate
+- Store name and aisle notes
+- Customer-supplied vs you-buy on every line
+- Receipt photo before you leave the lot
+- Leftovers to return and leftovers to keep
+- Limits you should read before you treat a return as money
+- One fictional filled example (Harbor Mill faucet, labeled
   fictional)
-- A printable PDF of the checklist pages
+- A printable PDF of the same pages
 
-You write the items. You photograph the receipt. You mark used,
-leftover, and returned. The page does not know what the store
-will take back.
+You write the list. You shop it. You write what comes back.
 
 ## What it is not
 
+- Not estimating software and not a price list
+- Not a guaranteed savings, leftover credit, or fewer trips
 - Not the Handyman One-Job Price Check (that is pricing one
   finished job)
 - Not the Handyman Scope + Change Sheet (that is scope and
   changes after arrival)
-- Not a materials takeoff, bid, or estimating workbook
-- Not inventory software and not a packing list for a crew
-- Not tax advice on materials, resale certificates, or job costing
-- Bloom does not shop, return, or store materials for you
-- No savings, fewer trips, or job-profit promise
+- It does not buy, hold, or return materials for you
+- It does not know the store's return policy
 
-There are no testimonials on this page because we are not going
-to invent them.
+There are no testimonials on this page because we are not
+going to invent them.
 
 ## Who it is for
 
-A solo handyman or small residential contractor who shops for
-one job at a time, will write the list before the store, and
-will bring unused unopened goods back with the receipt.
+A solo handyman or small residential contractor who shops
+materials for one job at a time and will copy the list before
+they drive.
 
 ## Who it is not for
 
-- Anyone who wants a next-job price from a finished job
-- Anyone who wants a scope-and-change record
-- Anyone who wants Bloom to buy, return, or inventory materials
-- Anyone who needs estimating software or a multi-crew warehouse
-  system
+- Anyone who wants software to price or order materials
+- Anyone who wants Bloom to shop, return, or stock the truck
+- Anyone who wants a savings promise
+- Anyone who is looking for the One-Job Price Check or the
+  Scope + Change Sheet
 
 ## Price and how it arrives
 
 **$5 USD, one time.** Checkout is Stripe. You get a zip:
 `One-Job-Materials-Run-Checklist.zip`. Open `README.txt`
-first, then `00-limits.txt`, then fill the checklist before
-you leave for the store.
+first, then `00-limits.txt`, then copy the estimate list
+before you drive. Do not invent a savings number.

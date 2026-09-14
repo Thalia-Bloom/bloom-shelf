@@ -5,18 +5,18 @@
   "price_cents": 500,
   "project_id": "shelf-materials-run-v1",
   "zip_filename": "One-Job-Materials-Run-Checklist.zip",
-  "bytes": 7324,
-  "sha256": "faec29eb3979acc9110eb7c20cb6018243025d8725a7351b7bf5334c2a17e5d5",
+  "bytes": 9276,
+  "sha256": "229e4dfd9f93e1fb4b7496f597e0ea7e677bfe5e03d218664f22dee6c7467c99",
   "contains": [
-    "pdf",
     "md",
+    "pdf",
     "txt"
   ],
   "for_who": [
-    "solo handyman or small residential contractor shopping materials for one job"
+    "solo tradesperson shopping materials for one job"
   ],
   "not_for": [
-    "buyers who want a price-check workbook or a scope-and-change sheet",
-    "anyone who wants Bloom to shop, return, or inventory materials"
+    "buyers who want estimating software or a price list",
+    "anyone looking for the One-Job Price Check or the Scope + Change Sheet"
   ]
 }

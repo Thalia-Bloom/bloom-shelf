@@ -1,0 +1,35 @@
+Creator Brand-Voice Card -- public sample
+Headers you fill on the paid page. Blank on purpose.
+Not a filled example. Not an editor. Not auto-captions.
+
+Audience
+  Who this is for (one sentence)
+  Who this is not for (one sentence)
+
+We / I
+  I / we / the shop name / mixed
+
+Words we say
+  Words you already use and will keep using
+
+Words we never say
+  Words you will not put in a caption
+
+Caption length
+  One line you can read in the shot you actually post
+  About 32-42 characters / shorter / one breath / other
+
+On-screen vs spoken
+  SPEECH matches audio
+  TITLE is a name, hours, or location, labeled TITLE
+
+Caption do / don't (from that card)
+  Use words we say. Match we/I. One thought. No all-caps wall.
+  Do not use never-say words. Do not promise views or sales.
+
+Paid download after Stripe checkout: the one-page voice card,
+caption do/don't, limits, one fictional Harbor Mill Bakery
+example labeled fictional, and a printable PDF of the pages.
+
+Support: support@thaliabloom.com. $9 USD one-time. Refund by email
+within 14 days of purchase. Seller: Bloom Web Services LLC.

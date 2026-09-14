@@ -1,0 +1,22 @@
+{
+  "slug": "marketplace-photo-list",
+  "name": "Marketplace One-Item Photo Shot List",
+  "tagline": "Photograph one object like a listing, not a memory.",
+  "price_cents": 700,
+  "project_id": "shelf-marketplace-photos-v1",
+  "zip_filename": "Marketplace-One-Item-Photo-Shot-List.zip",
+  "bytes": 9713,
+  "sha256": "bd2fee48b14c0df734fda15192de40604f3ca29ead7038dff7f7069ce1b0fcc0",
+  "contains": [
+    "pdf",
+    "md",
+    "txt"
+  ],
+  "for_who": [
+    "someone listing one object who will photograph it in person"
+  ],
+  "not_for": [
+    "anyone who wants software to post or price the piece",
+    "anyone who wants Bloom to photograph, list, or sell the object"
+  ]
+}

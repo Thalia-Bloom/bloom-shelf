@@ -1,4 +1,4 @@
-export const VERSION = '1.7.0';
+export const VERSION = '1.8.0';
 export const SELLER = 'Bloom Web Services LLC';
 export const SUPPORT = 'support@thaliabloom.com';
 
@@ -347,6 +347,64 @@ export const SKUS = {
       'You want Bloom to print or ship the pattern.',
     ],
     limits: 'Not a sewing pattern, not a tiled-PDF joiner, not a print order. Scale errors waste paper and fabric. No fit is guaranteed.',
+  },
+  'materials-run-checklist': {
+    slug: 'materials-run-checklist',
+    name: 'One-Job Materials-Run Checklist',
+    tagline: 'Shop the job once. Bring back what you did not use.',
+    price_cents: 500,
+    project_id: 'shelf-materials-run-v1',
+    zip_filename: 'One-Job-Materials-Run-Checklist.zip',
+    zip_path: '/assets/materials-run-checklist.zip',
+    description: 'A supply-stop checklist for one job: what to buy, what the customer supplies, what to return, what leftovers to keep. Not a price sheet and not a scope form.',
+    contains: ['A checkbox run list', 'Limits page', 'A fictional example and a printable PDF'],
+    steps: [
+      'Copy materials off the estimate before you drive.',
+      'Mark customer-supplied vs you-buy.',
+      'Photograph the receipt.',
+      'Return what you did not use, or write why you kept it.',
+    ],
+    for_who: ['You are a solo tradesperson shopping for one job.'],
+    not_for: ['You want estimating software or a price list.'],
+    limits: 'Not pricing advice. No savings, returns, or job profit are guaranteed.',
+  },
+  'creator-voice-card': {
+    slug: 'creator-voice-card',
+    name: 'Creator Brand-Voice Card',
+    tagline: 'One page for how you sound. Caption do and don’t.',
+    price_cents: 900,
+    project_id: 'shelf-creator-voice-v1',
+    zip_filename: 'Creator-Brand-Voice-Card.zip',
+    zip_path: '/assets/creator-voice-card.zip',
+    description: 'A one-page voice card and caption do/don’t for a creator who already films. Not an editor and not a recut kit.',
+    contains: ['A fill-in voice card', 'Caption do/don’t', 'A fictional example and a printable PDF'],
+    steps: [
+      'Write audience, we/I, words you say, words you never say.',
+      'Set a caption length you can actually read on screen.',
+      'Fill do/don’t before the next upload.',
+    ],
+    for_who: ['You already film and write captions.'],
+    not_for: ['You want software to cut or caption for you.'],
+    limits: 'Not an editor, not auto-captions, not a follower guarantee.',
+  },
+  'marketplace-photo-list': {
+    slug: 'marketplace-photo-list',
+    name: 'Marketplace One-Item Photo Shot List',
+    tagline: 'Photograph one object like a listing, not a memory.',
+    price_cents: 700,
+    project_id: 'shelf-marketplace-photos-v1',
+    zip_filename: 'Marketplace-One-Item-Photo-Shot-List.zip',
+    zip_path: '/assets/marketplace-photo-list.zip',
+    description: 'A shot list for photographing one object for a Marketplace listing: all sides, damage, scale, context. Not a posting bot and not a go/no-go price sheet.',
+    contains: ['A checkbox shot list', 'Limits page', 'A fictional example and a printable PDF'],
+    steps: [
+      'Shoot all sides and the underside before you leave.',
+      'Add a scale (tape or coin) and a damage close-up.',
+      'If it is furniture, include the doorway it has to fit.',
+    ],
+    for_who: ['You are listing one object, not running a warehouse.'],
+    not_for: ['You want software to post or price the piece.'],
+    limits: 'Not a listing bot, not an appraisal. No sale is guaranteed.',
   },
 };
 

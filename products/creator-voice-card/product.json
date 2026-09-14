@@ -1,0 +1,22 @@
+{
+  "slug": "creator-voice-card",
+  "name": "Creator Brand-Voice Card",
+  "tagline": "One page for how you sound. Caption do and don't.",
+  "price_cents": 900,
+  "project_id": "shelf-creator-voice-v1",
+  "zip_filename": "Creator-Brand-Voice-Card.zip",
+  "bytes": 10750,
+  "sha256": "25f838cd88746c7671f3c801cb8184f5b1c3a3105672a736bceeda5309423fa9",
+  "contains": [
+    "pdf",
+    "md",
+    "txt"
+  ],
+  "for_who": [
+    "creator who already films and writes captions"
+  ],
+  "not_for": [
+    "anyone who wants software to cut, caption, or grow a channel",
+    "anyone who needs a recut shot list (that is a different pack)"
+  ]
+}

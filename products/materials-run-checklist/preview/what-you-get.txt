@@ -1,35 +1,34 @@
 One-Job Materials-Run Checklist -- public sample
 Headers you fill on the paid page. Blank on purpose.
-Not a filled example. Not a price check. Not a scope sheet.
+Not a filled example. Not estimating software. Not a price list.
 
-Job
-  Job name | address | work date
-  Store(s) I will stop at
-  Receipts live: glove box / phone photo / job folder / other
+Job / estimate no. | date of run | store
 
-Before you leave the shop / truck
-  What I already have for THIS job (do not rebuy)
-  What I still need on this run
-  Just-in-case extra (write it, or write none)
+Run checks
+  [ ] list from estimate
+  [ ] store
+  [ ] aisle notes
+  [ ] customer-supplied vs you-buy
+  [ ] receipt photo
+  [ ] leftovers to return
+  [ ] leftovers to keep
 
-Customer-supplied
-  What they said they would have on site
-  On arrival: present / damaged / wrong size / missing
-  If missing or wrong: stop. Do not silently substitute.
+List from estimate
+  Qty | item | customer-supplied or you-buy | aisle note
 
-Store stop
-  Photograph the receipt. Write the job name on it.
-  Return window copied from the receipt
-  Item | qty | opened? | used | leftover | return?
+Receipt photo
+  whole slip, in the lot, date and store readable
 
-Returns and leftovers
-  Unopened unused, same day if you can, receipt in hand
-  Billed, left at the job / billed, on the truck / not billed, mine
-  Do not dump leftovers in the customer's bin unless they asked
+Leftovers
+  return: unopened, with the receipt, store may still say no
+  keep: opened / store said no / not a savings figure
 
-Paid download after Stripe checkout: the one-job checklist,
-how-to, limits, one fictional filled example labeled fictional,
-and a printable PDF of the checklist pages.
+Paid download after Stripe checkout: the run checklist, limits,
+one fictional filled example labeled fictional, and a printable
+PDF of the same pages.
+
+Not the One-Job Price Check. Not the Scope + Change Sheet.
+No savings are guaranteed.
 
 Support: support@thaliabloom.com. $5 USD one-time. Refund by email
 within 14 days of purchase. Seller: Bloom Web Services LLC.

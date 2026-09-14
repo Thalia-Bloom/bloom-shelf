@@ -1,0 +1,33 @@
+Marketplace One-Item Photo Shot List -- public sample
+Headers you fill on the paid page. Blank on purpose.
+Not a filled example. Not a listing bot. Not a price sheet.
+
+One object
+  Object name | what it is | date | where it sits today
+
+All sides
+  Front | back | left | right | top
+  Each door or drawer, open, if it has them
+
+Underside, joints, damage
+  Underside (turn it or get on the floor)
+  Corners, hinges, missing hardware
+  Every ding in a close-up. Do not crop it out of the hero shot.
+
+Scale, label, context, doorway
+  Tape in the frame, or a coin if you have no tape
+  Width / depth / height written from the tape
+  Maker mark or serial if present; write "none" if not
+  Object in place, with a wall or floor for size
+  If furniture: doorway width and height, piece next to that door
+
+Check a box only after that photo is on the phone.
+This page does not post, price, or sell the object.
+No sale is guaranteed.
+
+Paid download after Stripe checkout: the checkbox shot list,
+limits, one fictional filled example labeled fictional, and a
+printable PDF of the same pages.
+
+Support: support@thaliabloom.com. $7 USD one-time. Refund by email
+within 14 days of purchase. Seller: Bloom Web Services LLC.
