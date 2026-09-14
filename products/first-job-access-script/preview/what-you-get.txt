@@ -1,0 +1,30 @@
+First Commercial Job Access Script -- public sample
+Headers you fill on the paid pages. Blank on purpose.
+Not a filled example. Not a COI form. Not a quote.
+
+Access list (one site)
+  dumpster | water | power | hours
+  parking / load-in / keys
+  site still in progress (trades, rooms not done)
+  COI-ask status -- needed / not needed / they would not say
+
+COI request wording (blanks they fill, you forward)
+  additional insured name (their words, or none)
+  project name | job address
+  limits they asked (their words -- do not invent)
+  where to send it | due date
+
+DO NOT QUOTE YET until dumpster, water, power, hours, and
+COI-ask status are written. You do not issue certificates.
+Hours and dollars are a different sheet.
+
+Paid download after Stripe checkout: the access list, email
+and SMS scripts, limits, one fictional filled example labeled
+fictional, and a printable PDF of the same pages.
+
+Not the Post-Construction Cleaning Quote Kit. Not the
+Punch-List vs Deep-Clean Scope Card. No job or coverage is
+guaranteed.
+
+Support: support@thaliabloom.com. $5 USD one-time. Refund by
+email within 14 days of purchase. Seller: Bloom Web Services LLC.

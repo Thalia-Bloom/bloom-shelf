@@ -1,4 +1,4 @@
-export const VERSION = '1.9.0';
+export const VERSION = '2.1.0';
 export const SELLER = 'Bloom Web Services LLC';
 export const SUPPORT = 'support@thaliabloom.com';
 
@@ -424,6 +424,44 @@ export const SKUS = {
     for_who: ['You clean and a client used the words punch list.'],
     not_for: ['You want a dollar quote workbook (that is the cleaning quote kit).'],
     limits: 'Not a bid and not a market price. No job is guaranteed.',
+  },
+  'first-job-access-script': {
+    slug: 'first-job-access-script',
+    name: 'First Commercial Job Access Script',
+    tagline: 'Ask for dumpster, water, hours, and a COI before you quote.',
+    price_cents: 500,
+    project_id: 'shelf-first-job-access-v1',
+    zip_filename: 'First-Commercial-Job-Access-Script.zip',
+    zip_path: '/assets/first-job-access-script.zip',
+    description: 'Wording plus a fill-in list for a first commercial site: dumpster, water, power, hours, and a certificate-of-insurance ask with blanks. Not a COI you can issue. Not legal advice.',
+    contains: ['Access list', 'Email/SMS scripts with blanks', 'How-to, limits, printable PDF'],
+    steps: [
+      'Fill the access list before you send a number.',
+      'Send the COI ask with blanks for their facts.',
+      'If dumpster or hours are unknown, do not guess them into the quote.',
+    ],
+    for_who: ['You clean or trade houses and a GC asked you onto a first commercial site.'],
+    not_for: ['You want a COI form to issue, or a quote workbook.'],
+    limits: 'Not legal, insurance, or licensing advice. No job is guaranteed.',
+  },
+  'two-pool-usage-card': {
+    slug: 'two-pool-usage-card',
+    name: '5-Hour vs Weekly Two-Pool Card',
+    tagline: 'Two numbers. Two pools. They are not the same meter.',
+    price_cents: 400,
+    project_id: 'shelf-two-pool-v1',
+    zip_filename: 'Five-Hour-vs-Weekly-Two-Pool-Card.zip',
+    zip_path: '/assets/two-pool-usage-card.zip',
+    description: 'Claude’s 5-hour window and weekly allowance are two different pools. This card is a place to write both numbers and see whether they moved together. It is not a meter. If you only need Codex and CodexBar already works, skip Usage HUD.',
+    contains: ['A two-pool fill-in card', 'How-to and limits', 'A printable PDF'],
+    steps: [
+      'Write today’s 5-hour number and this week’s weekly number.',
+      'Note whether they moved together.',
+      'If weekly jumped and the 5-hour did not, they are not the same pool.',
+    ],
+    for_who: ['You are on Claude Max or Pro and the weekly number jumped.'],
+    not_for: ['You want a live menu-bar meter (that is Usage HUD).'],
+    limits: 'Not a meter. Vendor panels change. No usage is recovered. Codex-only users who already have CodexBar do not need HUD.',
   },
 };
 

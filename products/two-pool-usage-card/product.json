@@ -1,0 +1,22 @@
+{
+  "slug": "two-pool-usage-card",
+  "name": "5-Hour vs Weekly Two-Pool Card",
+  "tagline": "Two numbers. Two pools. They are not the same meter.",
+  "price_cents": 400,
+  "project_id": "shelf-two-pool-v1",
+  "zip_filename": "Five-Hour-vs-Weekly-Two-Pool-Card.zip",
+  "bytes": 9373,
+  "sha256": "e33da0b32dfaeff803628e92d117c23c22cfb13c8b509f4a943b859ae9eafd71",
+  "contains": [
+    "md",
+    "pdf",
+    "txt"
+  ],
+  "for_who": [
+    "Claude user whose weekly allowance moved without a matching 5-hour window"
+  ],
+  "not_for": [
+    "buyers who want a live meter, a scraper, or Usage HUD",
+    "anyone who only uses Codex and already has CodexBar"
+  ]
+}

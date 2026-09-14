@@ -1,0 +1,26 @@
+5-Hour vs Weekly Two-Pool Card -- public sample
+Headers you fill on the paid page. Blank on purpose.
+Not a filled example. Not a meter. Not Usage HUD.
+
+THIS SESSION -- 5-HOUR POOL
+  Panel label | this session's 5-hour number | unit | reset
+
+THIS WEEK -- WEEKLY POOL
+  Panel label | this week's weekly number | unit | reset
+
+DID THEY MOVE TOGETHER?
+  yes / no / I don't know / first fill
+  If no: which moved | which stayed
+
+They are two pools. They are not the same meter.
+Do not guess weekly from the 5-hour row.
+
+Paid download after Stripe checkout: the one-page card, how-to,
+limits, one fictional filled example labeled fictional, and a
+printable PDF of the same pages.
+
+If you only use Codex and CodexBar already works, skip Usage
+HUD. This card is not a meter.
+
+Support: support@thaliabloom.com. $4 USD one-time. Refund by
+email within 14 days of purchase. Seller: Bloom Web Services LLC.

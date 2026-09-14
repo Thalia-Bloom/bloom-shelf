@@ -1,0 +1,22 @@
+{
+  "slug": "first-job-access-script",
+  "name": "First Commercial Job Access Script",
+  "tagline": "Ask for dumpster, water, hours, and a COI before you quote.",
+  "price_cents": 500,
+  "project_id": "shelf-first-job-access-v1",
+  "zip_filename": "First-Commercial-Job-Access-Script.zip",
+  "bytes": 17717,
+  "sha256": "c45b56e789a097b211a262562c8df7910343963cfc4a9ae77ba0a3a256908f5d",
+  "contains": [
+    "md",
+    "pdf",
+    "txt"
+  ],
+  "for_who": [
+    "residential operator on a first GC commercial site"
+  ],
+  "not_for": [
+    "anyone who wants a COI form they can issue themselves",
+    "anyone looking for the quote kit or the punch-list vs deep-clean card"
+  ]
+}
