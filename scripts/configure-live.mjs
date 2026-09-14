@@ -58,7 +58,7 @@ async function main() {
     transform(chunk, encoding, callback) { chunks.push(chunk); callback(); },
     flush(callback) {
       stripeKey = Buffer.concat(chunks).toString('utf8').trim();
-      if (!/^sk_live_[A-Za-z0-9]+$/.test(stripeKey)) return callback(new Error('Refusing a key that is not a Stripe LIVE secret'));
+      if (!/^(?:sk|rk)_live_[A-Za-z0-9]+$/.test(stripeKey)) return callback(new Error('Refusing a key that is not a Stripe LIVE secret'));
       this.push(stripeKey);
       callback();
     },
