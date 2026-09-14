@@ -1,0 +1,37 @@
+Solo-Trade Estimate + Invoice Pages — public heading sample
+(not the paid files). Blank on purpose. Not a filled example.
+
+Estimate page — one job. Fill, then send as PDF.
+
+  Estimate no., date, valid until
+  Who — you, customer, phone / email
+  Where — job address, access
+  What's included
+  What's excluded
+  Materials vs labor (separate dollars)
+  Deposit requested, remaining if accepted
+  How to pay — blank; you write YOUR method
+  Next step — reply by, accept / decline / question
+
+Invoice page — after the work you billed.
+
+  Invoice no., date, related estimate no.
+  Who, where, work date(s)
+  Work billed / not billed
+  Materials vs labor
+  Deposit already received, balance due, due date
+  How to pay — blank again
+  Paid in full? yes / no / partial
+
+Limits:
+
+- Not a state-specific contract. Not tax advice.
+- Not mechanic's-lien advice or a collections letter.
+- Not the One-Job Price Check. Not the Scope + Change Sheet.
+
+Paid download after Stripe checkout: blank estimate, blank
+invoice, how-to, limits, one fictional filled example labeled
+fictional, and a printable PDF.
+
+Support: support@thaliabloom.com. $7 USD one-time. Refund by
+email within 14 days of purchase. Seller: Bloom Web Services LLC.

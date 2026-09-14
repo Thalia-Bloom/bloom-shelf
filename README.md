@@ -18,6 +18,7 @@ Support: support@thaliabloom.com · 14-day refund by email.
 | Creator Clip Shot-List + Caption Pack | $12 | [/p/creator-clip-pack](https://bloom-shelf.pattern-service.workers.dev/p/creator-clip-pack) |
 | Furniture Pickup Go/No-Go Sheet | $7 | [/p/furniture-pickup-sheet](https://bloom-shelf.pattern-service.workers.dev/p/furniture-pickup-sheet) |
 | Claude vs Codex vs Cursor Decision Worksheet | $5 | [/p/coding-tool-decision-sheet](https://bloom-shelf.pattern-service.workers.dev/p/coding-tool-decision-sheet) |
+| Solo-Trade Estimate + Invoice Pages | $7 | [/p/trade-invoice-estimate](https://bloom-shelf.pattern-service.workers.dev/p/trade-invoice-estimate) |
 
 Paid ZIP files are not in this repository. Checkout delivers them after Stripe payment. Public samples live under `products/<slug>/preview/`.
 

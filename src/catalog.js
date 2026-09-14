@@ -1,4 +1,4 @@
-export const VERSION = '1.3.0';
+export const VERSION = '1.4.0';
 export const SELLER = 'Bloom Web Services LLC';
 export const SUPPORT = 'support@thaliabloom.com';
 
@@ -257,6 +257,36 @@ export const SKUS = {
       'You want a usage meter or someone else to cancel a plan.',
     ],
     limits: 'Not a benchmark, not a review, not a usage meter. Tool prices and limits change. No savings are guaranteed. This worksheet does not replace CodexBar or Usage HUD.',
+  },
+  'trade-invoice-estimate': {
+    slug: 'trade-invoice-estimate',
+    name: 'Solo-Trade Estimate + Invoice Pages',
+    tagline: 'One page to quote. One page to bill.',
+    price_cents: 700,
+    project_id: 'shelf-trade-invoice-v1',
+    zip_filename: 'Solo-Trade-Estimate-Invoice-Pages.zip',
+    zip_path: '/assets/trade-invoice-estimate.zip',
+    description: 'Two fill-in pages for a solo handyman: an estimate before the job and an invoice after. You write who, where, included, excluded, materials vs labor, deposit, due date, and how to pay. How to pay is blank on purpose. This is not a contract.',
+    contains: [
+      'A fill-in estimate page and a fill-in invoice page',
+      'Short how-to and a limits page',
+      'A fictional Harbor Mill example and a printable PDF',
+    ],
+    steps: [
+      'Fill the estimate before you start. Name what is included and excluded.',
+      'Send it as a PDF. Do not send only a total in a text thread.',
+      'After the work, fill the invoice from the same numbers.',
+      'Write your own payment method. The sheet will not collect money.',
+    ],
+    for_who: [
+      'You are a solo handyman who still quotes by text or memory.',
+      'You want two pages, not estimating software.',
+    ],
+    not_for: [
+      'You need a state-specific legal contract or a mechanic’s lien form.',
+      'You want tax, licensing, or collections advice.',
+    ],
+    limits: 'Not a contract, not tax advice, not a lien notice. No payment, job, or customer acceptance is guaranteed.',
   },
 };
 

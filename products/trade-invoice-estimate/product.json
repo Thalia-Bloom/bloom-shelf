@@ -1,0 +1,23 @@
+{
+  "slug": "trade-invoice-estimate",
+  "name": "Solo-Trade Estimate + Invoice Pages",
+  "tagline": "One page to quote. One page to bill.",
+  "price_cents": 700,
+  "project_id": "shelf-trade-invoice-v1",
+  "zip_filename": "Solo-Trade-Estimate-Invoice-Pages.zip",
+  "bytes": 11784,
+  "sha256": "2463f9d66031740a944f760afb004d796b1fdca834787ae9b64456d3d57c67bc",
+  "contains": [
+    "md",
+    "pdf",
+    "txt"
+  ],
+  "for_who": [
+    "solo handyman sending a number by text or email"
+  ],
+  "not_for": [
+    "buyers who need a state-specific legal contract",
+    "anyone who wants mechanic's-lien or tax advice",
+    "anyone looking for the One-Job Price Check or the Scope + Change Sheet"
+  ]
+}
