@@ -1,0 +1,10 @@
+{
+  "slug": "tape-order-card",
+  "name": "Tiled-Page Tape-Order Card",
+  "tagline": "Number the tiles. Measure. Then tape.",
+  "price_cents": 300,
+  "project_id": "shelf-tape-order-v1",
+  "zip_filename": "Tiled-Page-Tape-Order-Card.zip",
+  "bytes": 1900,
+  "sha256": "a121fd8505f7cf4db75a0f904e24d646c604ad0fe871a7ba90cfcb040bdb559c"
+}

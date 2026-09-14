@@ -1,4 +1,4 @@
-export const VERSION = '2.4.0';
+export const VERSION = '2.5.0';
 export const SELLER = 'Bloom Web Services LLC';
 export const SUPPORT = 'support@thaliabloom.com';
 
@@ -519,6 +519,25 @@ export const SKUS = {
     for_who: ['You already decided to take a tiled PDF to a copy shop.'],
     not_for: ['You still need to decide home vs shop (that is the chooser).'],
     limits: 'Not a print order Bloom will place. Scale errors waste paper.',
+  },
+  'tape-order-card': {
+    slug: 'tape-order-card',
+    name: 'Tiled-Page Tape-Order Card',
+    tagline: 'Number the tiles. Measure. Then tape.',
+    price_cents: 300,
+    project_id: 'shelf-tape-order-v1',
+    zip_filename: 'Tiled-Page-Tape-Order-Card.zip',
+    zip_path: '/assets/tape-order-card.zip',
+    description: 'A fill-in card to number tiled A4 or Letter pattern pages before you tape them. Measure a test square first. Not software that merges the tiles.',
+    contains: ['A numbered tape-order grid', 'How-to and limits', 'A printable PDF'],
+    steps: [
+      'Print a test square at 100 percent and measure it.',
+      'Number tiles to match the pattern marks.',
+      'Tape. Do not cut fabric yet.',
+    ],
+    for_who: ['You printed tiles and have not taped yet.'],
+    not_for: ['You want this zip to assemble the PDF for you.'],
+    limits: 'Not a sewing pattern and not a joiner. A wrong test square wastes the stack.',
   },
 };
 
