@@ -1,4 +1,4 @@
-export const VERSION = '1.6.0';
+export const VERSION = '1.7.0';
 export const SELLER = 'Bloom Web Services LLC';
 export const SUPPORT = 'support@thaliabloom.com';
 
@@ -317,6 +317,36 @@ export const SKUS = {
       'You only use Codex and CodexBar already works.',
     ],
     limits: 'Not a meter and not Usage HUD. Paths and panel names change. Confirm on your machine. No usage recovery is guaranteed.',
+  },
+  'print-vs-copyshop': {
+    slug: 'print-vs-copyshop',
+    name: 'Print-at-Home vs Copy-Shop Chooser',
+    tagline: 'Decide where to print the tiled PDF before you cut.',
+    price_cents: 400,
+    project_id: 'shelf-print-copyshop-v1',
+    zip_filename: 'Print-at-Home-vs-Copy-Shop-Chooser.zip',
+    zip_path: '/assets/print-vs-copyshop.zip',
+    description: 'A one-page chooser for a tiled sewing-pattern PDF: print the tiles at home and tape them, or take a file you already have to a copy shop. Fill scale, paper, layers, and a cost guess. Do not cut fabric yet. This is not a joiner and not a test-square pack.',
+    contains: [
+      'A one-page chooser with scale, paper, layers, and cost blanks',
+      'How-to and limits',
+      'A fictional filled example and a printable PDF',
+    ],
+    steps: [
+      'Print a test square at 100 percent and measure it.',
+      'Fill scale, paper, and layers on the chooser.',
+      'Write a cost guess for home vs copy shop.',
+      'Decide. Do not cut fabric until the print is the right size.',
+    ],
+    for_who: [
+      'You have a tiled PDF sewing pattern and have not cut yet.',
+      'You will measure a test square yourself.',
+    ],
+    not_for: [
+      'You want software to merge the tiles.',
+      'You want Bloom to print or ship the pattern.',
+    ],
+    limits: 'Not a sewing pattern, not a tiled-PDF joiner, not a print order. Scale errors waste paper and fabric. No fit is guaranteed.',
   },
 };
 

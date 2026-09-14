@@ -13,9 +13,10 @@
     "txt"
   ],
   "for_who": [
-    "Mac user whose ccusage, CodexBar, and vendor panels disagree"
+    "Mac user whose ccusage, CodexBar, vendor panel, or HUD-style meter numbers disagree"
   ],
   "not_for": [
-    "anyone who wants a live usage meter"
+    "buyers who want a live meter, a scraper, or Usage HUD",
+    "anyone who wants account-sharing or Keychain-export steps"
   ]
 }

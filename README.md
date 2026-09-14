@@ -20,6 +20,7 @@ Support: support@thaliabloom.com · 14-day refund by email.
 | Claude vs Codex vs Cursor Decision Worksheet | $3 | [/p/coding-tool-decision-sheet](https://bloom-shelf.pattern-service.workers.dev/p/coding-tool-decision-sheet) |
 | Solo-Trade Estimate + Invoice Pages | $7 | [/p/trade-invoice-estimate](https://bloom-shelf.pattern-service.workers.dev/p/trade-invoice-estimate) |
 | Where Your Usage Lives | $4 | [/p/usage-source-map](https://bloom-shelf.pattern-service.workers.dev/p/usage-source-map) |
+| Print-at-Home vs Copy-Shop Chooser | $4 | [/p/print-vs-copyshop](https://bloom-shelf.pattern-service.workers.dev/p/print-vs-copyshop) |
 
 Paid ZIP files are not in this repository. Checkout delivers them after Stripe payment. Public samples live under `products/<slug>/preview/`.
 

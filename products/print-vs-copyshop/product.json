@@ -1,0 +1,18 @@
+{
+  "slug": "print-vs-copyshop",
+  "name": "Print-at-Home vs Copy-Shop Chooser",
+  "tagline": "Decide where to print the tiled PDF before you cut.",
+  "price_cents": 400,
+  "project_id": "shelf-print-copyshop-v1",
+  "zip_filename": "Print-at-Home-vs-Copy-Shop-Chooser.zip",
+  "bytes": 6647,
+  "sha256": "98c2336ee9bf8928cb8c931d823328cb0918468811167053f2fa3c724ecd3417",
+  "contains": ["pdf", "md", "txt"],
+  "for_who": [
+    "home sewist with a tiled PDF deciding whether to print at home or take a file to a copy shop"
+  ],
+  "not_for": [
+    "anyone who wants a tiled-PDF joiner",
+    "anyone who wants Bloom to print the pattern"
+  ]
+}

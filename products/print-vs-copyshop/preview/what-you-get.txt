@@ -1,0 +1,35 @@
+Print-at-Home vs Copy-Shop Chooser -- public sample
+Headers you fill on the paid page. Blank on purpose.
+Not a filled example. Not a tiled-PDF joiner. Not a test square.
+
+File I actually have
+  tiled A4 / tiled Letter / large-format already / I don't know
+
+Scale (do this first)
+  Test-square unit | what the box measured | scale OK? yes / no / not measured yet
+  Print at 100% / actual size. Turn OFF fit-to-page. Measure the box, not the page.
+
+Paper
+  Home paper I have | paper the tiled PDF is made for | match?
+  Copy-shop paper I can buy | large-format file already? yes / no / I don't know
+
+Layers
+  Can I toggle size layers? | sizes I need | sizes I will hide
+  If the shop flattens layers: all sizes / only my size / I don't know
+
+Cost guess (your numbers)
+  Home: paper / ink / time / tape
+  Copy shop: quote / shop name / date of quote
+  Travel or time to the shop
+
+Decision
+  print at home / take a file to a copy shop / wait
+
+DO NOT CUT FABRIC YET until the test square measures right.
+
+Paid download after Stripe checkout: the one-page chooser, how-to,
+limits, one fictional filled example labeled fictional, and a
+printable PDF of the chooser page.
+
+Support: support@thaliabloom.com. $4 USD one-time. Refund by email
+within 14 days of purchase. Seller: Bloom Web Services LLC.
