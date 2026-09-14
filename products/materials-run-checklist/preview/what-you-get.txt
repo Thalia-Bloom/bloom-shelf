@@ -1,0 +1,35 @@
+One-Job Materials-Run Checklist -- public sample
+Headers you fill on the paid page. Blank on purpose.
+Not a filled example. Not a price check. Not a scope sheet.
+
+Job
+  Job name | address | work date
+  Store(s) I will stop at
+  Receipts live: glove box / phone photo / job folder / other
+
+Before you leave the shop / truck
+  What I already have for THIS job (do not rebuy)
+  What I still need on this run
+  Just-in-case extra (write it, or write none)
+
+Customer-supplied
+  What they said they would have on site
+  On arrival: present / damaged / wrong size / missing
+  If missing or wrong: stop. Do not silently substitute.
+
+Store stop
+  Photograph the receipt. Write the job name on it.
+  Return window copied from the receipt
+  Item | qty | opened? | used | leftover | return?
+
+Returns and leftovers
+  Unopened unused, same day if you can, receipt in hand
+  Billed, left at the job / billed, on the truck / not billed, mine
+  Do not dump leftovers in the customer's bin unless they asked
+
+Paid download after Stripe checkout: the one-job checklist,
+how-to, limits, one fictional filled example labeled fictional,
+and a printable PDF of the checklist pages.
+
+Support: support@thaliabloom.com. $5 USD one-time. Refund by email
+within 14 days of purchase. Seller: Bloom Web Services LLC.

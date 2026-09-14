@@ -1,0 +1,22 @@
+{
+  "slug": "materials-run-checklist",
+  "name": "One-Job Materials-Run Checklist",
+  "tagline": "Shop the job once. Bring back what you did not use.",
+  "price_cents": 500,
+  "project_id": "shelf-materials-run-v1",
+  "zip_filename": "One-Job-Materials-Run-Checklist.zip",
+  "bytes": 7324,
+  "sha256": "faec29eb3979acc9110eb7c20cb6018243025d8725a7351b7bf5334c2a17e5d5",
+  "contains": [
+    "pdf",
+    "md",
+    "txt"
+  ],
+  "for_who": [
+    "solo handyman or small residential contractor shopping materials for one job"
+  ],
+  "not_for": [
+    "buyers who want a price-check workbook or a scope-and-change sheet",
+    "anyone who wants Bloom to shop, return, or inventory materials"
+  ]
+}
