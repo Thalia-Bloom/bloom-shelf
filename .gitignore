@@ -12,3 +12,5 @@ products/*/buyer.zip
 public/assets/
 public/covers/
 public/preview/
+__pycache__/
+*.py[cod]

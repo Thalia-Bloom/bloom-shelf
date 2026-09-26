@@ -5,6 +5,15 @@
   "price_cents": 300,
   "project_id": "shelf-tape-order-v1",
   "zip_filename": "Tiled-Page-Tape-Order-Card.zip",
-  "bytes": 1900,
-  "sha256": "a121fd8505f7cf4db75a0f904e24d646c604ad0fe871a7ba90cfcb040bdb559c"
+  "bytes": 7888,
+  "sha256": "705e2d8bea7adab0186095b6298b069936a1e2ba6fc12796783b68b4c0775b0b",
+  "contains": ["pdf", "md", "txt"],
+  "for_who": [
+    "home sewist who printed tiled A4 or Letter pages and will number them, measure, then tape"
+  ],
+  "not_for": [
+    "anyone who wants a tiled-PDF joiner",
+    "anyone who will tape before measuring the test square",
+    "anyone who wants Bloom to print or tape the pages"
+  ]
 }
